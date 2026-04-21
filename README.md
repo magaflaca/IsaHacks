@@ -1,4 +1,7 @@
 # IsaHacks — A MITM Proxy for Terraria
+
+<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/252a74ea-def3-4ed5-ba21-df50757a8c23" />
+
 *[IsaHacks Web, create an account and test](https://isaedits.pages.dev/)*
 
 A few days ago I was sitting on the balcony, thinking about some pending projects — the kind that have been procrastinated for years — when a friend messaged me on Discord. He knows I play Terraria and had seen me doing “incredible” things on an anarchy server. He asked me how I could do those kinds of things (probably maptp or cloning players). So I told him about the Zaza client — now rebranded as TClient — a project I truly admire and have used for a long time. I wasn't surprised when he said he didn't have a PC, that he played mostly on mobile. It's happened to me many times: mobile players long for the ease that PC hacks provide.
