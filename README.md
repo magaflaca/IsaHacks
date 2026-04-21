@@ -10,7 +10,7 @@ After half-implementing some commands, I found that many didn't work or only wor
 
 We have a proxy that you point to a server, then you put the local IP or VPS where the proxy runs into the game and connect. Inside, you get a command system almost worthy of a PC client, but outside your device. This makes this implementation a “cross‑platform hack”. And finally, I was able to satisfy my low‑budget friend.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is for educational and research purposes only. Using tools that modify the behaviour of an online game may violate Terraria's terms of service and the rules of the servers you connect to. The author is not responsible for any misuse of this software or for any penalties (such as bans) that users may incur. Use it at your own risk and always respect the rules of the communities you play in.
 
@@ -62,11 +62,11 @@ And finally, a nod to my friend on Discord who just wanted to have fun on mobile
 
 **IsaHacks** is maintained by [@isawicca](mailto:isa@wiccagirl.online) (Discord: @isawicca).
 
-## 🤝 Contributing
+## Contributing
 
 If at any time you feel like contributing to this project, please make a PR to the repo — I'll be happy to merge it. If you are the developer of any of the mods mentioned above and want me to remove your implementation from this project, please tell me on Discord and I'll be glad to do so as soon as possible.
 
-## 🌐 Web version
+## Web version
 
 If you want to use the web version without installing anything, go to:  
 [https://isaedits.pages.dev/](https://isaedits.pages.dev/)
