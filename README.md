@@ -48,7 +48,7 @@ In any case, there are few truly “new” commands or implementations in this p
 
 This project contains code, logic, and ideas that have been re‑implemented or directly adapted from the following sources (without explicit permission — this is a humble fan recreation):
 
-- **ZazaMod (now TClient)** — for the command structure, killaura, lag, crashmobile, and the player‑zone detection method.
+- **ZazaMod (now TClient)** — for the command structure, killaura, lag, crashmobile, and some methods.
 - **QTRHacker** — for the `.rainbow` command.  
   Developer: [Qiu233](https://github.com/Qiu233)
 - **Various unknown Cheat Engine script authors** — for the ideas behind `.god`, `.heal`, `.noclip`, `.tp`, etc.
