@@ -53,8 +53,11 @@ This project contains code, logic, and ideas that have been re‑implemented or 
   Developer: [Qiu233](https://github.com/Qiu233)
 - **Various unknown Cheat Engine script authors** — for the ideas behind `.god`, `.heal`, `.noclip`, `.tp`, etc.
 - **TShock** — for the plugin logic behind `.citem`, `.citem+`, `.maptp`. And net packet classification.
+
   Repository 1: [Pryaxis/TShock](https://github.com/Pryaxis/TShock)
+
   Repository 2: [Interverse/CustomItems](https://github.com/Interverse/CustomItems)
+
   Repository 3: [Stealownz/MapTP](https://github.com/Stealownz/MapTP)
 - **Public proxy list repositories** (used in the `.proxy` command):
   - `https://raw.githubusercontent.com/Skillter/ProxyGather/master/proxies/working-proxies-socks5.txt`
