@@ -1,0 +1,3188 @@
+[
+  {
+    "id": 1,
+    "name": "Obsidian Skin",
+    "wiki_link": "https://terraria.fandom.com/wiki/Obsidian_Skin_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Obsidian_Skin.png/revision/latest?cb=20170708212652&format=original",
+    "name_es": "Piel de obsidiana",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_piel_de_obsidiana",
+    "internal_name": "ObsidianSkin"
+  },
+  {
+    "id": 2,
+    "name": "Regeneration",
+    "wiki_link": "https://terraria.fandom.com/wiki/Regeneration_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Regeneration.png/revision/latest?cb=20170708212746&format=original",
+    "name_es": "Regeneración",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_regeneraci%C3%B3n",
+    "internal_name": "Regeneration"
+  },
+  {
+    "id": 3,
+    "name": "Swiftness",
+    "wiki_link": "https://terraria.fandom.com/wiki/Swiftness_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/af/Swiftness.png/revision/latest?cb=20170708212804&format=original",
+    "name_es": "Rapidez",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_rapidez",
+    "internal_name": "Swiftness"
+  },
+  {
+    "id": 4,
+    "name": "Gills",
+    "wiki_link": "https://terraria.fandom.com/wiki/Gills_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Gills.png/revision/latest?cb=20170708212829&format=original",
+    "name_es": "Agallas",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_agallas",
+    "internal_name": "Gills"
+  },
+  {
+    "id": 5,
+    "name": "Ironskin",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ironskin_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Ironskin.png/revision/latest?cb=20170708212849&format=original",
+    "name_es": "Piel de hierro",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_piel_de_hierro",
+    "internal_name": "Ironskin"
+  },
+  {
+    "id": 6,
+    "name": "Mana Regeneration",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mana_Regeneration_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Mana_Regeneration.png/revision/latest?cb=20170708212927&format=original",
+    "name_es": "Regeneración de maná",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_regeneraci%C3%B3n_de_man%C3%A1",
+    "internal_name": "ManaRegeneration"
+  },
+  {
+    "id": 7,
+    "name": "Magic Power",
+    "wiki_link": "https://terraria.fandom.com/wiki/Magic_Power_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Magic_Power.png/revision/latest?cb=20170708212954&format=original",
+    "name_es": "Poder mágico",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_poder_m%C3%A1gico",
+    "internal_name": "MagicPower"
+  },
+  {
+    "id": 8,
+    "name": "Featherfall",
+    "wiki_link": "https://terraria.fandom.com/wiki/Featherfall_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Featherfall.png/revision/latest?cb=20170708213002&format=original",
+    "name_es": "Caída de pluma",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_ca%C3%ADda_de_pluma",
+    "internal_name": "Featherfall"
+  },
+  {
+    "id": 9,
+    "name": "Spelunker",
+    "wiki_link": "https://terraria.fandom.com/wiki/Spelunker_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Spelunker.png/revision/latest?cb=20170708213019&format=original",
+    "name_es": "Espeleólogo",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_espele%C3%B3logo",
+    "internal_name": "Spelunker"
+  },
+  {
+    "id": 10,
+    "name": "Invisibility",
+    "wiki_link": "https://terraria.fandom.com/wiki/Invisibility_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Invisibility.png/revision/latest?cb=20170708213104&format=original",
+    "name_es": "Invisibilidad",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_invisibilidad",
+    "internal_name": "Invisibility"
+  },
+  {
+    "id": 11,
+    "name": "Shine",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shine_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2a/Shine.png/revision/latest?cb=20170708213104&format=original",
+    "name_es": "Brillo",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_brillo",
+    "internal_name": "Shine"
+  },
+  {
+    "id": 12,
+    "name": "Night Owl",
+    "wiki_link": "https://terraria.fandom.com/wiki/Night_Owl_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Night_Owl.png/revision/latest?cb=20170708213117&format=original",
+    "name_es": "Noctámbulo",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_noct%C3%A1mbulo",
+    "internal_name": "NightOwl"
+  },
+  {
+    "id": 13,
+    "name": "Battle",
+    "wiki_link": "https://terraria.fandom.com/wiki/Battle_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Battle.png/revision/latest?cb=20170708213142&format=original",
+    "name_es": "Batalla",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_batalla",
+    "internal_name": "Battle"
+  },
+  {
+    "id": 14,
+    "name": "Thorns",
+    "wiki_link": "https://terraria.fandom.com/wiki/Thorns_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Thorns.png/revision/latest?cb=20170708213159&format=original",
+    "name_es": "Espinas",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_espinas",
+    "internal_name": "Thorns"
+  },
+  {
+    "id": 15,
+    "name": "Water Walking",
+    "wiki_link": "https://terraria.fandom.com/wiki/Water_Walking_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/51/Water_Walking.png/revision/latest?cb=20170708213220&format=original",
+    "name_es": "Flotación",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_flotaci%C3%B3n",
+    "internal_name": "WaterWalking"
+  },
+  {
+    "id": 16,
+    "name": "Archery",
+    "wiki_link": "https://terraria.fandom.com/wiki/Archery_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Archery.png/revision/latest?cb=20170708213236&format=original",
+    "name_es": "Tiro con arco",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_arquero",
+    "internal_name": "Archery"
+  },
+  {
+    "id": 17,
+    "name": "Hunter",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hunter_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4b/Hunter.png/revision/latest?cb=20170708213256&format=original",
+    "name_es": "Cazador",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_cazador",
+    "internal_name": "Hunter"
+  },
+  {
+    "id": 18,
+    "name": "Gravitation",
+    "wiki_link": "https://terraria.fandom.com/wiki/Gravitation_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/30/Gravitation.png/revision/latest?cb=20170708213326&format=original",
+    "name_es": "Gravedad",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Poci%C3%B3n_de_gravedad",
+    "internal_name": "Gravitation"
+  },
+  {
+    "id": 19,
+    "name": "Shadow Orb",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shadow_Orb_(item)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Shadow_Orb_%28buff%29.png/revision/latest?cb=20170715161644&format=original",
+    "name_es": "Orbe sombrío",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Shadow_Orb_(item)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ShadowOrb"
+  },
+  {
+    "id": 20,
+    "name": "Poisoned",
+    "wiki_link": "https://terraria.fandom.com/wiki/Poisoned",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png/revision/latest?cb=20170708221026&format=original",
+    "name_es": "Envenenado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Poisoned?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Poisoned"
+  },
+  {
+    "id": 21,
+    "name": "Potion Sickness",
+    "wiki_link": "https://terraria.fandom.com/wiki/Potion_Sickness",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Potion_Sickness.png/revision/latest?cb=20170708220957&format=original",
+    "name_es": "Enfermedad de poción",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Potion_Sickness?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PotionSickness"
+  },
+  {
+    "id": 22,
+    "name": "Darkness",
+    "wiki_link": "https://terraria.fandom.com/wiki/Darkness",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/Darkness.png/revision/latest?cb=20200517044404&format=original",
+    "name_es": "Oscuridad",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Darkness?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Darkness"
+  },
+  {
+    "id": 23,
+    "name": "Cursed",
+    "wiki_link": "https://terraria.fandom.com/wiki/Cursed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Cursed.png/revision/latest?cb=20170710212431&format=original",
+    "name_es": "Maldición",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Cursed?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Cursed"
+  },
+  {
+    "id": 24,
+    "name": "On Fire!",
+    "wiki_link": "https://terraria.fandom.com/wiki/On_Fire!",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png/revision/latest?cb=20170708221138&format=original",
+    "name_es": "¡En llamas!",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/On_Fire!?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "OnFire"
+  },
+  {
+    "id": 25,
+    "name": "Tipsy",
+    "wiki_link": "https://terraria.fandom.com/wiki/Tipsy",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Tipsy.png/revision/latest?cb=20170708221047&format=original",
+    "name_es": "Beodo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Tipsy?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Tipsy"
+  },
+  {
+    "id": 26,
+    "name": "Well Fed",
+    "wiki_link": "https://terraria.fandom.com/wiki/Well_Fed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Well_Fed.png/revision/latest?cb=20200517045845&format=original",
+    "name_es": "Bien alimentado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Well_Fed?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WellFed"
+  },
+  {
+    "id": 27,
+    "name": "Fairy (Blue)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Fairy_Bell",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Fairy_%28buff%29.png/revision/latest?cb=20170710211548&format=original",
+    "name_es": "Hada",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Fairy_Bell?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "FairyBlue"
+  },
+  {
+    "id": 28,
+    "name": "Werewolf",
+    "wiki_link": "https://terraria.fandom.com/wiki/Moon_Charm",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Werewolf_%28buff%29.png/revision/latest?cb=20170710205552&format=original",
+    "name_es": "Hombre lobo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Moon_Charm?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Werewolf"
+  },
+  {
+    "id": 29,
+    "name": "Clairvoyance",
+    "wiki_link": "https://terraria.fandom.com/wiki/Crystal_Ball",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Clairvoyance.png/revision/latest?cb=20150702043219&format=original",
+    "name_es": "Clarividencia",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Crystal_Ball?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Clairvoyance"
+  },
+  {
+    "id": 30,
+    "name": "Bleeding",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bleeding",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Bleeding.png/revision/latest?cb=20170710205525&format=original",
+    "name_es": "Hemorragia",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Bleeding?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Bleeding"
+  },
+  {
+    "id": 31,
+    "name": "Confused",
+    "wiki_link": "https://terraria.fandom.com/wiki/Confused",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png/revision/latest?cb=20170710205605&format=original",
+    "name_es": "Confusión",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Confused?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Confused"
+  },
+  {
+    "id": 32,
+    "name": "Slow",
+    "wiki_link": "https://terraria.fandom.com/wiki/Slow",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Slow.png/revision/latest?cb=20170710211340&format=original",
+    "name_es": "Lento",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Slow?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Slow"
+  },
+  {
+    "id": 33,
+    "name": "Weak",
+    "wiki_link": "https://terraria.fandom.com/wiki/Weak",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Weak.png/revision/latest?cb=20170710211352&format=original",
+    "name_es": "Debilidad",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Weak?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Weak"
+  },
+  {
+    "id": 34,
+    "name": "Merfolk",
+    "wiki_link": "https://terraria.fandom.com/wiki/Neptune's_Shell",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Merfolk_%28buff%29.png/revision/latest?cb=20170710211611&format=original",
+    "name_es": "Tritón",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Neptune%27s_Shell?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Merfolk"
+  },
+  {
+    "id": 35,
+    "name": "Silenced",
+    "wiki_link": "https://terraria.fandom.com/wiki/Silenced",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Silenced.png/revision/latest?cb=20170710211312&format=original",
+    "name_es": "Silencio",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Silenced?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Silenced"
+  },
+  {
+    "id": 36,
+    "name": "Broken Armor",
+    "wiki_link": "https://terraria.fandom.com/wiki/Broken_Armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Broken_Armor.png/revision/latest?cb=20170710210627&format=original",
+    "name_es": "Armadura rota",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Armadura_rota",
+    "internal_name": "BrokenArmor"
+  },
+  {
+    "id": 37,
+    "name": "Horrified",
+    "wiki_link": "https://terraria.fandom.com/wiki/Wall_of_Flesh",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Horrified.png/revision/latest?cb=20170710211502&format=original",
+    "name_es": "Terror",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Wall_of_Flesh?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Horrified"
+  },
+  {
+    "id": 38,
+    "name": "The Tongue",
+    "wiki_link": "https://terraria.fandom.com/wiki/Wall_of_Flesh",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/The_Tongue.png/revision/latest?cb=20170710211449&format=original",
+    "name_es": "La Lengua",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/The_Tongue?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "TheTongue"
+  },
+  {
+    "id": 39,
+    "name": "Cursed Inferno",
+    "wiki_link": "https://terraria.fandom.com/wiki/Cursed_Inferno",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png/revision/latest?cb=20170710211519&format=original",
+    "name_es": "Infierno maldito",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Cursed_Inferno?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "CursedInferno"
+  },
+  {
+    "id": 40,
+    "name": "Pet Bunny",
+    "wiki_link": "https://terraria.fandom.com/wiki/Carrot",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Pet_Bunny_%28buff%29.png/revision/latest?cb=20170710212243&format=original",
+    "name_es": "Conejo mascota",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Carrot?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetBunny"
+  },
+  {
+    "id": 41,
+    "name": "Baby Penguin",
+    "wiki_link": "https://terraria.fandom.com/wiki/Fish_(item)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Baby_Penguin_%28buff%29.png/revision/latest?cb=20170715004159&format=original",
+    "name_es": "Pingüino bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Fish_(item)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabyPenguin"
+  },
+  {
+    "id": 42,
+    "name": "Pet Turtle",
+    "wiki_link": "https://terraria.fandom.com/wiki/Seaweed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Pet_Turtle_%28buff%29.png/revision/latest?cb=20170715004553&format=original",
+    "name_es": "Tortuga mascota",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Seaweed?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetTurtle"
+  },
+  {
+    "id": 43,
+    "name": "Paladin's Shield",
+    "wiki_link": "https://terraria.fandom.com/wiki/Paladin's_Shield",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Paladin%27s_Shield_%28buff%29.png/revision/latest?cb=20170717203540&format=original",
+    "name_es": "Escudo de paladín",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Paladin%27s_Shield?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PaladinsShield"
+  },
+  {
+    "id": 44,
+    "name": "Frostburn",
+    "wiki_link": "https://terraria.fandom.com/wiki/Frostburn",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824&format=original",
+    "name_es": "Quemadura helada",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Frostburn?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Frostburn"
+  },
+  {
+    "id": 45,
+    "name": "Baby Eater",
+    "wiki_link": "https://terraria.fandom.com/wiki/Eater's_Bone",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Baby_Eater_%28buff%29.png/revision/latest?cb=20170715004738&format=original",
+    "name_es": "Comealmas bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Eater%27s_Bone?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabyEater"
+  },
+  {
+    "id": 46,
+    "name": "Chilled",
+    "wiki_link": "https://terraria.fandom.com/wiki/Chilled",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a6/Chilled.png/revision/latest?cb=20141117002018&format=original",
+    "name_es": "Helado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Chilled?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Chilled"
+  },
+  {
+    "id": 47,
+    "name": "Frozen",
+    "wiki_link": "https://terraria.fandom.com/wiki/Frozen",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Frozen.png/revision/latest?cb=20170715013449&format=original",
+    "name_es": "Congelado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Frozen?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Frozen"
+  },
+  {
+    "id": 48,
+    "name": "Honey",
+    "wiki_link": "https://terraria.fandom.com/wiki/Honey_(buff)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Honey_%28buff%29.png/revision/latest?cb=20170715013508&format=original",
+    "name_es": "Miel",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Honey_(buff)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Honey"
+  },
+  {
+    "id": 49,
+    "name": "Pygmies",
+    "wiki_link": "https://terraria.fandom.com/wiki/Pygmy_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Pygmies.png/revision/latest?cb=20170715155850&format=original",
+    "name_es": "Pigmeos",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Pygmy_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Pygmies"
+  },
+  {
+    "id": 50,
+    "name": "Baby Skeletron Head",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bone_Key",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Baby_Skeletron_Head_%28buff%29.png/revision/latest?cb=20170715004259&format=original",
+    "name_es": "Cabeza de esqueletrón bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Bone_Key?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabySkeletronHead"
+  },
+  {
+    "id": 51,
+    "name": "Baby Hornet",
+    "wiki_link": "https://terraria.fandom.com/wiki/Nectar",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Baby_Hornet_%28buff%29.png/revision/latest?cb=20170715004922&format=original",
+    "name_es": "Avispón bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Nectar?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabyHornet"
+  },
+  {
+    "id": 52,
+    "name": "Tiki Spirit",
+    "wiki_link": "https://terraria.fandom.com/wiki/Tiki_Totem",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Tiki_Spirit_%28buff%29.png/revision/latest?cb=20170715005206&format=original",
+    "name_es": "Espíritu tiki",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Tiki_Totem?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "TikiSpirit"
+  },
+  {
+    "id": 53,
+    "name": "Pet Lizard",
+    "wiki_link": "https://terraria.fandom.com/wiki/Lizard_Egg",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Pet_Lizard_%28buff%29.png/revision/latest?cb=20170715004936&format=original",
+    "name_es": "Lagarto mascota",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Lizard_Egg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetLizard"
+  },
+  {
+    "id": 54,
+    "name": "Pet Parrot",
+    "wiki_link": "https://terraria.fandom.com/wiki/Parrot_Cracker",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3e/Pet_Parrot_%28buff%29.png/revision/latest?cb=20170715004537&format=original",
+    "name_es": "Loro mascota",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Parrot_Cracker?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetParrot"
+  },
+  {
+    "id": 55,
+    "name": "Baby Truffle",
+    "wiki_link": "https://terraria.fandom.com/wiki/Strange_Glowing_Mushroom",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Baby_Truffle_%28buff%29.png/revision/latest?cb=20170715004630&format=original",
+    "name_es": "Trufa bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Strange_Glowing_Mushroom?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabyTruffle"
+  },
+  {
+    "id": 56,
+    "name": "Pet Sapling",
+    "wiki_link": "https://terraria.fandom.com/wiki/Seedling",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Pet_Sapling_%28buff%29.png/revision/latest?cb=20170715005029&format=original",
+    "name_es": "Retoño mascota",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Seedling?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetSapling"
+  },
+  {
+    "id": 57,
+    "name": "Wisp",
+    "wiki_link": "https://terraria.fandom.com/wiki/Wisp_in_a_Bottle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cc/Wisp_%28buff%29.png/revision/latest?cb=20200518132902&format=original",
+    "name_es": "Voluta",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Wisp_in_a_Bottle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Wisp"
+  },
+  {
+    "id": 58,
+    "name": "Rapid Healing",
+    "wiki_link": "https://terraria.fandom.com/wiki/Palladium_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3a/Rapid_Healing.png/revision/latest?cb=20170715155931&format=original",
+    "name_es": "Curación rápida",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Palladium_armor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "RapidHealing"
+  },
+  {
+    "id": 59,
+    "name": "Holy Protection",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hallowed_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/df/Holy_Protection.png/revision/latest?cb=20200517050249&format=original",
+    "name_es": "Esquiva sombría",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Hallowed_armor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ShadowDodge"
+  },
+  {
+    "id": 60,
+    "name": "Leaf Crystal",
+    "wiki_link": "https://terraria.fandom.com/wiki/Chlorophyte_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Leaf_Crystal.png/revision/latest?cb=20170715160014&format=original",
+    "name_es": "Hoja de cristal",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Chlorophyte_armor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "LeafCrystal"
+  },
+  {
+    "id": 61,
+    "name": "Baby Dinosaur",
+    "wiki_link": "https://terraria.fandom.com/wiki/Amber_Mosquito",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Baby_Dinosaur_%28buff%29.png/revision/latest?cb=20170715004127&format=original",
+    "name_es": "Dinosaurio bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Amber_Mosquito?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabyDinosaur"
+  },
+  {
+    "id": 62,
+    "name": "Ice Barrier",
+    "wiki_link": "https://terraria.fandom.com/wiki/Frozen_Turtle_Shell",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Ice_Barrier.png/revision/latest?cb=20170715160034&format=original",
+    "name_es": "Barrera de hielo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Frozen_Turtle_Shell?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "IceBarrier"
+  },
+  {
+    "id": 63,
+    "name": "Panic!",
+    "wiki_link": "https://terraria.fandom.com/wiki/Panic_Necklace",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Panic%21.png/revision/latest?cb=20170715160108&format=original",
+    "name_es": "¡Pánico!",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Panic_Necklace?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Panic"
+  },
+  {
+    "id": 64,
+    "name": "Baby Slime",
+    "wiki_link": "https://terraria.fandom.com/wiki/Slime_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Baby_Slime_%28buff%29.png/revision/latest?cb=20170717203425&format=original",
+    "name_es": "Slime bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Slime_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabySlime"
+  },
+  {
+    "id": 65,
+    "name": "Eyeball Spring",
+    "wiki_link": "https://terraria.fandom.com/wiki/Eye_Spring",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Eyeball_Spring_%28buff%29.png/revision/latest?cb=20170715160143&format=original",
+    "name_es": "Ojo saltarín",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Eye_Spring?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "EyeballSpring"
+  },
+  {
+    "id": 66,
+    "name": "Baby Snowman",
+    "wiki_link": "https://terraria.fandom.com/wiki/Toy_Sled",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dd/Baby_Snowman_%28buff%29.png/revision/latest?cb=20170715004656&format=original",
+    "name_es": "Muñeco de nieve bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Toy_Sled?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabySnowman"
+  },
+  {
+    "id": 67,
+    "name": "Burning",
+    "wiki_link": "https://terraria.fandom.com/wiki/Burning",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Burning.png/revision/latest?cb=20170712014012&format=original",
+    "name_es": "Ardiendo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Burning?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Burning"
+  },
+  {
+    "id": 68,
+    "name": "Suffocation",
+    "wiki_link": "https://terraria.fandom.com/wiki/Suffocation",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Suffocation.png/revision/latest?cb=20170715013819&format=original",
+    "name_es": "Ahogo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Suffocation?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Suffocation"
+  },
+  {
+    "id": 69,
+    "name": "Ichor",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ichor_(debuff)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png/revision/latest?cb=20170717203701&format=original",
+    "name_es": "icor",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Ichor_(debuff)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Ichor"
+  },
+  {
+    "id": 70,
+    "name": "Acid Venom",
+    "wiki_link": "https://terraria.fandom.com/wiki/Acid_Venom",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png/revision/latest?cb=20170715013433&format=original",
+    "name_es": "Ponzoña",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Acid_Venom?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Venom"
+  },
+  {
+    "id": 71,
+    "name": "Weapon Imbue: Acid Venom",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Venom",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Weapon_Imbue_Acid_Venom.png/revision/latest?cb=20170715160341&format=original",
+    "name_es": "Arma imbuida: Ponzoña",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Venom?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbueVenom"
+  },
+  {
+    "id": 72,
+    "name": "Midas",
+    "wiki_link": "https://terraria.fandom.com/wiki/Midas",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png/revision/latest?cb=20170715160155&format=original",
+    "name_es": "Midas",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Midas?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Midas"
+  },
+  {
+    "id": 73,
+    "name": "Weapon Imbue: Cursed Flames",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Cursed_Flames",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Weapon_Imbue_Cursed_Flames.png/revision/latest?cb=20170715160330&format=original",
+    "name_es": "Arma imbuida: Llamas malditas",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Cursed_Flames?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbueCursedFlames"
+  },
+  {
+    "id": 74,
+    "name": "Weapon Imbue: Fire",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Fire",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Weapon_Imbue_Fire.png/revision/latest?cb=20170715160502&format=original",
+    "name_es": "Arma imbuida: Llamas",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Fire?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbueFire"
+  },
+  {
+    "id": 75,
+    "name": "Weapon Imbue: Gold",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Gold",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Weapon_Imbue_Gold.png/revision/latest?cb=20170715160450&format=original",
+    "name_es": "Arma imbuida: Oro",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Gold?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbueGold"
+  },
+  {
+    "id": 76,
+    "name": "Weapon Imbue: Ichor",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Ichor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Weapon_Imbue_Ichor.png/revision/latest?cb=20170715160435&format=original",
+    "name_es": "Arma imbuida: icor",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Ichor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbueIchor"
+  },
+  {
+    "id": 77,
+    "name": "Weapon Imbue: Nanites",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Nanites",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Weapon_Imbue_Nanites.png/revision/latest?cb=20170715160416&format=original",
+    "name_es": "Arma imbuida: Nanitos",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Nanites?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbueNanites"
+  },
+  {
+    "id": 78,
+    "name": "Weapon Imbue: Confetti",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Party",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Weapon_Imbue_Confetti.png/revision/latest?cb=20170715160352&format=original",
+    "name_es": "Arma imbuida: Confeti",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Party?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbueConfetti"
+  },
+  {
+    "id": 79,
+    "name": "Weapon Imbue: Poison",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flask_of_Poison",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/52/Weapon_Imbue_Poison.png/revision/latest?cb=20170715160405&format=original",
+    "name_es": "Arma imbuida: Veneno",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flask_of_Poison?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WeaponImbuePoison"
+  },
+  {
+    "id": 80,
+    "name": "Blackout",
+    "wiki_link": "https://terraria.fandom.com/wiki/Blackout",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Blackout.png/revision/latest?cb=20170715013151&format=original",
+    "name_es": "Apagón",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Blackout?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Blackout"
+  },
+  {
+    "id": 81,
+    "name": "Pet Spider",
+    "wiki_link": "https://terraria.fandom.com/wiki/Spider_Egg",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Pet_Spider_%28buff%29.png/revision/latest?cb=20170715213203&format=original",
+    "name_es": "Araña mascota",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Spider_Egg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetSpider"
+  },
+  {
+    "id": 82,
+    "name": "Squashling",
+    "wiki_link": "https://terraria.fandom.com/wiki/Magical_Pumpkin_Seed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Squashling_%28buff%29.png/revision/latest?cb=20170715212751&format=original",
+    "name_es": "Calabacín",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Magical_Pumpkin_Seed?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Squashling"
+  },
+  {
+    "id": 83,
+    "name": "Ravens",
+    "wiki_link": "https://terraria.fandom.com/wiki/Raven_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Ravens.png/revision/latest?cb=20170717203016&format=original",
+    "name_es": "Cuervos",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Raven_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Ravens"
+  },
+  {
+    "id": 84,
+    "name": "Black Cat",
+    "wiki_link": "https://terraria.fandom.com/wiki/Unlucky_Yarn",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Black_Cat_%28buff%29.png/revision/latest?cb=20170715213145&format=original",
+    "name_es": "Gato negro",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Unlucky_Yarn?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BlackCat"
+  },
+  {
+    "id": 85,
+    "name": "Cursed Sapling",
+    "wiki_link": "https://terraria.fandom.com/wiki/Cursed_Sapling",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/30/Cursed_Sapling_%28buff%29.png/revision/latest?cb=20170715213115&format=original",
+    "name_es": "Retoño maldito",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Cursed_Sapling?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "CursedSapling"
+  },
+  {
+    "id": 86,
+    "name": "Water Candle",
+    "wiki_link": "https://terraria.fandom.com/wiki/Water_Candle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Water_Candle_%28debuff%29.png/revision/latest?cb=20170715213852&format=original",
+    "name_es": "Vela de agua",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Water_Candle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WaterCandle"
+  },
+  {
+    "id": 87,
+    "name": "Cozy Fire",
+    "wiki_link": "https://terraria.fandom.com/wiki/Campfires",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Cozy_Fire.png/revision/latest?cb=20171213020204&format=original",
+    "name_es": "Fuego agradable",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Campfires?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Campfire"
+  },
+  {
+    "id": 88,
+    "name": "Chaos State",
+    "wiki_link": "https://terraria.fandom.com/wiki/Rod_of_Discord",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Chaos_State.png/revision/latest?cb=20170715215559&format=original",
+    "name_es": "Estado del caos",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Rod_of_Discord?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ChaosState"
+  },
+  {
+    "id": 89,
+    "name": "Heart Lamp",
+    "wiki_link": "https://terraria.fandom.com/wiki/Heart_Lantern",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Heart_Lamp_%28buff%29.png/revision/latest?cb=20170717203331&format=original",
+    "name_es": "Lámpara del corazón",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Heart_Lantern?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "HeartLamp"
+  },
+  {
+    "id": 90,
+    "name": "Rudolph",
+    "wiki_link": "https://terraria.fandom.com/wiki/Reindeer_Bells",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3a/Rudolph_%28buff%29.png/revision/latest?cb=20170717202952&format=original",
+    "name_es": "Rudolph",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Reindeer_Bells?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Rudolph"
+  },
+  {
+    "id": 91,
+    "name": "Puppy",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dog_Whistle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Puppy_%28buff%29.png/revision/latest?cb=20170717175518&format=original",
+    "name_es": "Cachorrito",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Dog_Whistle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Puppy"
+  },
+  {
+    "id": 92,
+    "name": "Baby Grinch",
+    "wiki_link": "https://terraria.fandom.com/wiki/Baby_Grinch's_Mischief_Whistle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Baby_Grinch_%28buff%29.png/revision/latest?cb=20170717202735&format=original",
+    "name_es": "Grinch bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Baby_Grinch%27s_Mischief_Whistle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabyGrinch"
+  },
+  {
+    "id": 93,
+    "name": "Ammo Box",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ammo_Box",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Ammo_Box_%28buff%29.png/revision/latest?cb=20140419160249&format=original",
+    "name_es": "Caja de munición",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Ammo_Box?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "AmmoBox"
+  },
+  {
+    "id": 94,
+    "name": "Mana Sickness",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mana_Sickness",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/93/Mana_Sickness.png/revision/latest?cb=20170722203725&format=original",
+    "name_es": "Locura de maná",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Mana_Sickness?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ManaSickness"
+  },
+  {
+    "id": 95,
+    "name": "Beetle Endurance (15%)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Beetle_Endurance",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Beetle_Endurance_15.png/revision/latest?cb=20140306175957&format=original",
+    "name_es": "Resistencia de escarabajo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Beetle_Endurance?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeetleEndurance1"
+  },
+  {
+    "id": 96,
+    "name": "Beetle Endurance (30%)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Beetle_Endurance",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cc/Beetle_Endurance_30.png/revision/latest?cb=20140306180002&format=original",
+    "name_es": "Resistencia de escarabajo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Beetle_Endurance?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeetleEndurance2"
+  },
+  {
+    "id": 97,
+    "name": "Beetle Endurance (45%)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Beetle_Endurance",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Beetle_Endurance_45.png/revision/latest?cb=20140306175933&format=original",
+    "name_es": "Resistencia de escarabajo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Beetle_Endurance?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeetleEndurance3"
+  },
+  {
+    "id": 98,
+    "name": "Beetle Might (10%)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Beetle_Might",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Beetle_Might_10.png/revision/latest?cb=20140306175938&format=original",
+    "name_es": "Fuerza de escarabajo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Beetle_Might?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeetleMight1"
+  },
+  {
+    "id": 99,
+    "name": "Beetle Might (20%)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Beetle_Might",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Beetle_Might_20.png/revision/latest?cb=20140306175943&format=original",
+    "name_es": "Fuerza de escarabajo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Beetle_Might?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeetleMight2"
+  },
+  {
+    "id": 100,
+    "name": "Beetle Might (30%)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Beetle_Might",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Beetle_Might_30.png/revision/latest?cb=20140306175948&format=original",
+    "name_es": "Fuerza de escarabajo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Beetle_Might?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeetleMight3"
+  },
+  {
+    "id": 101,
+    "name": "Fairy (Red)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Fairy_Bell",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Fairy_%28buff%29.png/revision/latest?cb=20170710211548&format=original",
+    "name_es": "Hada",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Fairy_Bell?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "FairyRed"
+  },
+  {
+    "id": 102,
+    "name": "Fairy (Green)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Fairy_Bell",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Fairy_%28buff%29.png/revision/latest?cb=20170710211548&format=original",
+    "name_es": "Hada",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Fairy_Bell?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "FairyGreen"
+  },
+  {
+    "id": 103,
+    "name": "Wet",
+    "wiki_link": "https://terraria.fandom.com/wiki/Wet",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Wet.png/revision/latest?cb=20140306175952&format=original",
+    "name_es": "Húmedo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Wet?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Wet"
+  },
+  {
+    "id": 104,
+    "name": "Mining",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mining_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Mining_%28buff%29.png/revision/latest?cb=20140512211017&format=original",
+    "name_es": "Minería",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Mining_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Mining"
+  },
+  {
+    "id": 105,
+    "name": "Heartreach",
+    "wiki_link": "https://terraria.fandom.com/wiki/Heartreach_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Heartreach.png/revision/latest?cb=20140512212153&format=original",
+    "name_es": "Alcanzacorazón",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Heartreach_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Heartreach"
+  },
+  {
+    "id": 106,
+    "name": "Calm",
+    "wiki_link": "https://terraria.fandom.com/wiki/Calming_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Calm.png/revision/latest?cb=20140512212538&format=original",
+    "name_es": "Calmado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Calming_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Calm"
+  },
+  {
+    "id": 107,
+    "name": "Builder",
+    "wiki_link": "https://terraria.fandom.com/wiki/Builder_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Builder.png/revision/latest?cb=20140512212949&format=original",
+    "name_es": "Constructor",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Builder_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Builder"
+  },
+  {
+    "id": 108,
+    "name": "Titan",
+    "wiki_link": "https://terraria.fandom.com/wiki/Titan_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/88/Titan.png/revision/latest?cb=20140512213421&format=original",
+    "name_es": "Titán",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Titan_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Titan"
+  },
+  {
+    "id": 109,
+    "name": "Flipper",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flipper_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Flipper_%28buff%29.png/revision/latest?cb=20140512214404&format=original",
+    "name_es": "Aletas",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Flipper_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Flipper"
+  },
+  {
+    "id": 110,
+    "name": "Summoning",
+    "wiki_link": "https://terraria.fandom.com/wiki/Summoning_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Summoning_%28buff%29.png/revision/latest?cb=20140512215522&format=original",
+    "name_es": "Invocando",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Summoning_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Summoning"
+  },
+  {
+    "id": 111,
+    "name": "Dangersense",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dangersense_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Dangersense.png/revision/latest?cb=20140512220528&format=original",
+    "name_es": "Sentido del peligro",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Dangersense_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Dangersense"
+  },
+  {
+    "id": 112,
+    "name": "Ammo Reservation",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ammo_Reservation_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Ammo_Reservation.png/revision/latest?cb=20140512220942&format=original",
+    "name_es": "Reserva de munición",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Ammo_Reservation_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "AmmoReservation"
+  },
+  {
+    "id": 113,
+    "name": "Lifeforce",
+    "wiki_link": "https://terraria.fandom.com/wiki/Lifeforce_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Lifeforce.png/revision/latest?cb=20140512221300&format=original",
+    "name_es": "Fuerza vital",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Lifeforce_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Lifeforce"
+  },
+  {
+    "id": 114,
+    "name": "Endurance",
+    "wiki_link": "https://terraria.fandom.com/wiki/Endurance_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Endurance.png/revision/latest?cb=20140512222059&format=original",
+    "name_es": "Resistencia",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Endurance_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Endurance"
+  },
+  {
+    "id": 115,
+    "name": "Rage",
+    "wiki_link": "https://terraria.fandom.com/wiki/Rage_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Rage.png/revision/latest?cb=20140512222453&format=original",
+    "name_es": "Furia",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Rage_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Rage"
+  },
+  {
+    "id": 116,
+    "name": "Inferno",
+    "wiki_link": "https://terraria.fandom.com/wiki/Inferno_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Inferno.png/revision/latest?cb=20140512223557&format=original",
+    "name_es": "Infierno",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Inferno_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Inferno"
+  },
+  {
+    "id": 117,
+    "name": "Wrath",
+    "wiki_link": "https://terraria.fandom.com/wiki/Wrath_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3f/Wrath.png/revision/latest?cb=20140512225503&format=original",
+    "name_es": "Ira",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Wrath_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Wrath"
+  },
+  {
+    "id": 118,
+    "name": "Minecart (Left)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Minecart_%28buff%29.png/revision/latest?cb=20150702043142&format=original",
+    "name_es": "Vagoneta",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "MinecartLeft"
+  },
+  {
+    "id": 119,
+    "name": "Lovestruck",
+    "wiki_link": "https://terraria.fandom.com/wiki/Love_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Lovestruck.png/revision/latest?cb=20140512230355&format=original",
+    "name_es": "Enamorado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Love_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Lovestruck"
+  },
+  {
+    "id": 120,
+    "name": "Stinky",
+    "wiki_link": "https://terraria.fandom.com/wiki/Stink_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Stinky.png/revision/latest?cb=20200521173437&format=original",
+    "name_es": "Apestoso",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Stinky?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Stinky"
+  },
+  {
+    "id": 121,
+    "name": "Fishing",
+    "wiki_link": "https://terraria.fandom.com/wiki/Fishing_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Fishing_%28buff%29.png/revision/latest?cb=20140512231949&format=original",
+    "name_es": "Pescando",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Fishing_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Fishing"
+  },
+  {
+    "id": 122,
+    "name": "Sonar",
+    "wiki_link": "https://terraria.fandom.com/wiki/Sonar_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/42/Sonar.png/revision/latest?cb=20140512232440&format=original",
+    "name_es": "Sonar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Sonar_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Sonar"
+  },
+  {
+    "id": 123,
+    "name": "Crate",
+    "wiki_link": "https://terraria.fandom.com/wiki/Crate_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Crate_%28buff%29.png/revision/latest?cb=20140512232910&format=original",
+    "name_es": "Caja",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Crate_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Crate"
+  },
+  {
+    "id": 124,
+    "name": "Warmth",
+    "wiki_link": "https://terraria.fandom.com/wiki/Warmth_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Warmth.png/revision/latest?cb=20140512233819&format=original",
+    "name_es": "Calor",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Warmth_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Warmth"
+  },
+  {
+    "id": 125,
+    "name": "Hornet",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hornet_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Hornet_%28buff%29.png/revision/latest?cb=20140515153353&format=original",
+    "name_es": "Avispón",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Hornet_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "HornetMinion"
+  },
+  {
+    "id": 126,
+    "name": "Imp",
+    "wiki_link": "https://terraria.fandom.com/wiki/Imp_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Imp.png/revision/latest?cb=20140515153119&format=original",
+    "name_es": "Diablillo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Imp_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ImpMinion"
+  },
+  {
+    "id": 127,
+    "name": "Zephyr Fish",
+    "wiki_link": "https://terraria.fandom.com/wiki/Zephyr_Fish",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Zephyr_Fish_%28buff%29.png/revision/latest?cb=20140515141759&format=original",
+    "name_es": "Pez de safiro",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Zephyr_Fish?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ZephyrFish"
+  },
+  {
+    "id": 128,
+    "name": "Bunny Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Fuzzy_Carrot",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cb/Bunny_Mount_%28buff%29.png/revision/latest?cb=20140513230533&format=original",
+    "name_es": "Montura en conejo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Fuzzy_Carrot?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BunnyMount"
+  },
+  {
+    "id": 129,
+    "name": "Pigron Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Scaly_Truffle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Pigron_Mount_%28buff%29.png/revision/latest?cb=20140513231513&format=original",
+    "name_es": "Montura de cerdidragón",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Scaly_Truffle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PigronMount"
+  },
+  {
+    "id": 130,
+    "name": "Slime Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Slimy_Saddle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Slime_Mount_%28buff%29.png/revision/latest?cb=20140513232312&format=original",
+    "name_es": "Montura de slime",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Slimy_Saddle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SlimeMount"
+  },
+  {
+    "id": 131,
+    "name": "Turtle Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hardy_Saddle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Turtle_Mount_%28buff%29.png/revision/latest?cb=20140513233033&format=original",
+    "name_es": "Montura de tortuga",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Hardy_Saddle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "TurtleMount"
+  },
+  {
+    "id": 132,
+    "name": "Bee Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Honeyed_Goggles",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Bee_Mount_%28buff%29.png/revision/latest?cb=20240522123651&format=original",
+    "name_es": "Montura en abeja",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Honeyed_Goggles?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeeMount"
+  },
+  {
+    "id": 133,
+    "name": "Spider",
+    "wiki_link": "https://terraria.fandom.com/wiki/Spider_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/69/Spider_%28buff%29.png/revision/latest?cb=20140515153646&format=original",
+    "name_es": "Araña",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Spider_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SpiderMinion"
+  },
+  {
+    "id": 134,
+    "name": "Twins",
+    "wiki_link": "https://terraria.fandom.com/wiki/Optic_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Twins_%28buff%29.png/revision/latest?cb=20140515154913&format=original",
+    "name_es": "Gemelos",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Optic_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "TwinEyesMinion"
+  },
+  {
+    "id": 135,
+    "name": "Pirate",
+    "wiki_link": "https://terraria.fandom.com/wiki/Pirate_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Pirate_%28buff%29.png/revision/latest?cb=20140515155219&format=original",
+    "name_es": "Pirata",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Pirate_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PirateMinion"
+  },
+  {
+    "id": 136,
+    "name": "Mini Minotaur",
+    "wiki_link": "https://terraria.fandom.com/wiki/Tartar_Sauce",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Mini_Minotaur_%28buff%29.png/revision/latest?cb=20140515141744&format=original",
+    "name_es": "Pequeño minotauro",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Beguiling_Lyre?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "MiniMinotaur"
+  },
+  {
+    "id": 137,
+    "name": "Slime",
+    "wiki_link": "https://terraria.fandom.com/wiki/Slime_Gun",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Slime_%28debuff%29.png/revision/latest?cb=20140514000932&format=original",
+    "name_es": "Slime",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Slime_(debuff)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Slimed"
+  },
+  {
+    "id": 138,
+    "name": "Minecart (Right)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Minecart_%28buff%29.png/revision/latest?cb=20150702043142&format=original",
+    "name_es": "Vagoneta",
+    "wiki_link_es": null,
+    "internal_name": "MinecartRight"
+  },
+  {
+    "id": 139,
+    "name": "Sharknado",
+    "wiki_link": "https://terraria.fandom.com/wiki/Tempest_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Sharknado.png/revision/latest?cb=20140515152817&format=original",
+    "name_es": "Tornado de tiburones",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Tempest_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SharknadoMinion"
+  },
+  {
+    "id": 140,
+    "name": "UFO",
+    "wiki_link": "https://terraria.fandom.com/wiki/Xeno_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/UFO.png/revision/latest?cb=20150701080324&format=original",
+    "name_es": "OVNI",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Xeno_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "UFOMinion"
+  },
+  {
+    "id": 141,
+    "name": "UFO Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Cosmic_Car_Key",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/UFO_Mount_%28buff%29.png/revision/latest?cb=20150701142236&format=original",
+    "name_es": "Montura en OVNI",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Cosmic_Car_Key?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "UFOMount"
+  },
+  {
+    "id": 142,
+    "name": "Drill Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Drill_Containment_Unit",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Drill_Mount_%28buff%29.png/revision/latest?cb=20150701075723&format=original",
+    "name_es": "Montura en taladro",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Drill_Containment_Unit?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DrillMount"
+  },
+  {
+    "id": 143,
+    "name": "Scutlix Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Brain_Scrambler_(item)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Scutlix_Mount_%28buff%29.png/revision/latest?cb=20150701075741&format=original",
+    "name_es": "Montura en scutlix",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Brain_Scrambler_(item)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ScutlixMount"
+  },
+  {
+    "id": 144,
+    "name": "Electrified",
+    "wiki_link": "https://terraria.fandom.com/wiki/Electrified",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png/revision/latest?cb=20150701075756&format=original",
+    "name_es": "Electrificado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Electrified?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Electrified"
+  },
+  {
+    "id": 145,
+    "name": "Moon Bite",
+    "wiki_link": "https://terraria.fandom.com/wiki/Moon_Bite",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Moon_Bite.png/revision/latest?cb=20150722102206&format=original",
+    "name_es": "Mordida lunar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Moon_Bite?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "MoonLeech"
+  },
+  {
+    "id": 146,
+    "name": "Happy!",
+    "wiki_link": "https://terraria.fandom.com/wiki/Sunflower",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Happy%21.png/revision/latest?cb=20150701075944&format=original",
+    "name_es": "¡Feliz!",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Sunflower?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Sunflower"
+  },
+  {
+    "id": 147,
+    "name": "Banner",
+    "wiki_link": "https://terraria.fandom.com/wiki/Banners_(enemy)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Banner_%28buff%29.png/revision/latest?cb=20160805205523&format=original",
+    "name_es": "Estandarte",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Banners_(enemy)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "MonsterBanner"
+  },
+  {
+    "id": 148,
+    "name": "Feral Bite",
+    "wiki_link": "https://terraria.fandom.com/wiki/Feral_Bite",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Feral_Bite.png/revision/latest?cb=20150701080004&format=original",
+    "name_es": "Mordisco feroz",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Feral_Bite?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Rabies"
+  },
+  {
+    "id": 149,
+    "name": "Webbed",
+    "wiki_link": "https://terraria.fandom.com/wiki/Webbed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cb/Webbed.png/revision/latest?cb=20150701080013&format=original",
+    "name_es": "Enteralañado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Webbed?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Webbed"
+  },
+  {
+    "id": 150,
+    "name": "Bewitched",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bewitching_Table",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/51/Bewitched.png/revision/latest?cb=20150701080022&format=original",
+    "name_es": "Embrujado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Bewitching_Table?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Bewitched"
+  },
+  {
+    "id": 151,
+    "name": "Life Drain",
+    "wiki_link": "https://terraria.fandom.com/wiki/Life_Drain",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Life_Drain_%28buff%29.png/revision/latest?cb=20150701083753&format=original",
+    "name_es": "Absorción de vida",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Life_Drain?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SoulDrain"
+  },
+  {
+    "id": 152,
+    "name": "Magic Lantern",
+    "wiki_link": "https://terraria.fandom.com/wiki/Magic_Lantern",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Magic_Lantern_%28buff%29.png/revision/latest?cb=20150701083801&format=original",
+    "name_es": "Linterna mágica",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Magic_Lantern?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "MagicLantern"
+  },
+  {
+    "id": 153,
+    "name": "Shadowflame",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shadowflame",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png/revision/latest?cb=20150701080440&format=original",
+    "name_es": "Fuego sombrío",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Shadowflame?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ShadowFlame"
+  },
+  {
+    "id": 154,
+    "name": "Baby Face Monster",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bone_Rattle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Baby_Face_Monster_%28buff%29.png/revision/latest?cb=20150701080449&format=original",
+    "name_es": "Caramonstruo bebé",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Bone_Rattle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BabyFaceMonster"
+  },
+  {
+    "id": 155,
+    "name": "Crimson Heart",
+    "wiki_link": "https://terraria.fandom.com/wiki/Crimson_Heart_(item)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Crimson_Heart_%28buff%29.png/revision/latest?cb=20150701083815&format=original",
+    "name_es": "Corazón carmesí",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Crimson_Heart_(item)?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "CrimsonHeart"
+  },
+  {
+    "id": 156,
+    "name": "Stoned",
+    "wiki_link": "https://terraria.fandom.com/wiki/Stoned",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Stoned.png/revision/latest?cb=20150701074549&format=original",
+    "name_es": "Petrificado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Stoned?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Stoned"
+  },
+  {
+    "id": 157,
+    "name": "Peace Candle",
+    "wiki_link": "https://terraria.fandom.com/wiki/Peace_Candle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Peace_Candle_%28buff%29.png/revision/latest?cb=20150701083834&format=original",
+    "name_es": "Vela de paz",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Peace_Candle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PeaceCandle"
+  },
+  {
+    "id": 158,
+    "name": "Star in a Bottle",
+    "wiki_link": "https://terraria.fandom.com/wiki/Star_in_a_Bottle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9d/Star_in_a_Bottle_%28buff%29.png/revision/latest?cb=20150701083843&format=original",
+    "name_es": "Estrella embotellada",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Star_in_a_Bottle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "StarInBottle"
+  },
+  {
+    "id": 159,
+    "name": "Sharpened",
+    "wiki_link": "https://terraria.fandom.com/wiki/Sharpening_Station",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Sharpened.png/revision/latest?cb=20150701080521&format=original",
+    "name_es": "Afilado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Sharpening_Station?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Sharpened"
+  },
+  {
+    "id": 160,
+    "name": "Dazed",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dazed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Dazed.png/revision/latest?cb=20150701080536&format=original",
+    "name_es": "Aturdido",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Dazed?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Dazed"
+  },
+  {
+    "id": 161,
+    "name": "Deadly Sphere",
+    "wiki_link": "https://terraria.fandom.com/wiki/Deadly_Sphere_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/09/Deadly_Sphere_%28buff%29.png/revision/latest?cb=20150701080545&format=original",
+    "name_es": "Esfera letal",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Deadly_Sphere_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DeadlySphere"
+  },
+  {
+    "id": 162,
+    "name": "Unicorn Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Blessed_Apple",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Unicorn_Mount_%28buff%29.png/revision/latest?cb=20150701090101&format=original",
+    "name_es": "Montura en unicornio",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Blessed_Apple?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "UnicornMount"
+  },
+  {
+    "id": 163,
+    "name": "Obstructed",
+    "wiki_link": "https://terraria.fandom.com/wiki/Brain_Suckler",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Obstructed.png/revision/latest?cb=20150701080621&format=original",
+    "name_es": "Obstruido",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Brain_Suckler?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Obstructed"
+  },
+  {
+    "id": 164,
+    "name": "Distorted",
+    "wiki_link": "https://terraria.fandom.com/wiki/Alien_Queen",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Distorted.png/revision/latest?cb=20150701080631&format=original",
+    "name_es": "Distorsionado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Alien_Queen?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "VortexDebuff"
+  },
+  {
+    "id": 165,
+    "name": "Dryad's Blessing",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dryad's_Blessing",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Dryad%27s_Blessing.png/revision/latest?cb=20150701080639&format=original",
+    "name_es": "Bendición de la dríada",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Dryad%27s_Blessing?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DryadsWard"
+  },
+  {
+    "id": 166,
+    "name": "Minecart (Mechanical (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mechanical_Cart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Mechanical_Cart_%28buff%29.png/revision/latest?cb=20150701085851&format=original",
+    "name_es": "Vagoneta",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Mechanical_Cart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "MinecartRightMech"
+  },
+  {
+    "id": 167,
+    "name": "Minecart (Mechanical (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mechanical_Cart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Mechanical_Cart_%28buff%29.png/revision/latest?cb=20150701085851&format=original",
+    "name_es": "Vagoneta",
+    "wiki_link_es": null,
+    "internal_name": "MinecartLeftMech"
+  },
+  {
+    "id": 168,
+    "name": "Cute Fishron Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shrimpy_Truffle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Cute_Fishron_Mount_%28buff%29.png/revision/latest?cb=20150701090734&format=original",
+    "name_es": "Adorable montura de Fishron",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Shrimpy_Truffle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "CuteFishronMount"
+  },
+  {
+    "id": 169,
+    "name": "Penetrated",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bone_Javelin",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Distorted.png/revision/latest?cb=20150701080631&format=original",
+    "name_es": "Penetrado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Bone_Javelin?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BoneJavelin"
+  },
+  {
+    "id": 170,
+    "name": "Solar Blaze (1 stack)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Solar_Flare_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Solar_Blaze.png/revision/latest?cb=20150701080813&format=original",
+    "name_es": "Llamarada solar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Solar_Flare_armor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SolarShield1"
+  },
+  {
+    "id": 171,
+    "name": "Solar Blaze (2 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Solar_Flare_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Solar_Blaze2.png/revision/latest?cb=20150702043216&format=original",
+    "name_es": "Llamarada solar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Solar_Flare_armor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SolarShield2"
+  },
+  {
+    "id": 172,
+    "name": "Solar Blaze (3 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Solar_Flare_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bd/Solar_Blaze3.png/revision/latest?cb=20150702043217&format=original",
+    "name_es": "Llamarada solar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Solar_Flare_armor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SolarShield3"
+  },
+  {
+    "id": 173,
+    "name": "Life Nebula (1 stack)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Life_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Life_Nebula1.png/revision/latest?cb=20150702043222&format=original",
+    "name_es": "Nebulosa vital",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Life_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpLife1"
+  },
+  {
+    "id": 174,
+    "name": "Life Nebula (2 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Life_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Life_Nebula2.png/revision/latest?cb=20150702043224&format=original",
+    "name_es": "Nebulosa vital",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Life_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpLife2"
+  },
+  {
+    "id": 175,
+    "name": "Life Nebula (3 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Life_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Life_Nebula3.png/revision/latest?cb=20150702043226&format=original",
+    "name_es": "Nebulosa vital",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Life_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpLife3"
+  },
+  {
+    "id": 176,
+    "name": "Mana Nebula (1 stack)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mana_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Mana_Nebula1.png/revision/latest?cb=20150702043226&format=original",
+    "name_es": "Nebulosa de maná",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Mana_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpMana1"
+  },
+  {
+    "id": 177,
+    "name": "Mana Nebula (2 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mana_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Mana_Nebula2.png/revision/latest?cb=20150702043227&format=original",
+    "name_es": "Nebulosa de maná",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Mana_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpMana2"
+  },
+  {
+    "id": 178,
+    "name": "Mana Nebula (3 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mana_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Mana_Nebula3.png/revision/latest?cb=20150702043228&format=original",
+    "name_es": "Nebulosa de maná",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Mana_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpMana3"
+  },
+  {
+    "id": 179,
+    "name": "Damage Nebula (1 stack)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Damage_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Damage_Nebula1.png/revision/latest?cb=20150702043230&format=original",
+    "name_es": "Nebulosa dañina",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Damage_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpDmg1"
+  },
+  {
+    "id": 180,
+    "name": "Damage Nebula (2 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Damage_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Damage_Nebula2.png/revision/latest?cb=20150702043231&format=original",
+    "name_es": "Nebulosa dañina",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Damage_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpDmg2"
+  },
+  {
+    "id": 181,
+    "name": "Damage Nebula (3 stacks)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Damage_Booster",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Damage_Nebula3.png/revision/latest?cb=20150702043236&format=original",
+    "name_es": "Nebulosa dañina",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Damage_Booster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NebulaUpDmg3"
+  },
+  {
+    "id": 182,
+    "name": "Stardust Cell (Stardust Minion)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Stardust_Cell_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Stardust_Cell.png/revision/latest?cb=20150701093647&format=original",
+    "name_es": "Célula de polvo estelar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Stardust_Cell_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "StardustMinion"
+  },
+  {
+    "id": 183,
+    "name": "Celled (unused)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Stardust_Cell_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Stardust_Cell.png/revision/latest?cb=20150701093647&format=original",
+    "name_es": "Celulado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Stardust_Cell_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "StardustMinionBleed"
+  },
+  {
+    "id": 184,
+    "name": "Minecart (Wooden (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Wooden_Minecart_%28buff%29.png/revision/latest?cb=20150702043240&format=original",
+    "name_es": "Vagoneta",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "MinecartLeftWood"
+  },
+  {
+    "id": 185,
+    "name": "Minecart (Wooden (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Wooden_Minecart_%28buff%29.png/revision/latest?cb=20150702043240&format=original",
+    "name_es": "Vagoneta",
+    "wiki_link_es": null,
+    "internal_name": "MinecartRightWood"
+  },
+  {
+    "id": 186,
+    "name": "Dryad's Bane",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dryad's_Blessing",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Dryad%27s_Blessing.png/revision/latest?cb=20150701080639&format=original",
+    "name_es": "Maldición de la dríada",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Dryad%27s_Blessing?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DryadsWardDebuff"
+  },
+  {
+    "id": 187,
+    "name": "Stardust Guardian",
+    "wiki_link": "https://terraria.fandom.com/wiki/Stardust_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Stardust_Guardian.png/revision/latest?cb=20150701081131&format=original",
+    "name_es": "Guardián de polvo estelar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Stardust_armor?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "StardustGuardianMinion"
+  },
+  {
+    "id": 188,
+    "name": "Stardust Dragon",
+    "wiki_link": "https://terraria.fandom.com/wiki/Stardust_Dragon_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png/revision/latest?cb=20150701081146&format=original",
+    "name_es": "Dragón de polvo estelar",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Stardust_Dragon_Staff?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "StardustDragonMinion"
+  },
+  {
+    "id": 189,
+    "name": "Daybroken",
+    "wiki_link": "https://terraria.fandom.com/wiki/Daybroken",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png/revision/latest?cb=20150701081146&format=original",
+    "name_es": "Amanecer",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Daybroken?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Daybreak"
+  },
+  {
+    "id": 190,
+    "name": "Suspicious Looking Eye",
+    "wiki_link": "https://terraria.fandom.com/wiki/Suspicious_Looking_Tentacle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Suspicious_Looking_Eye_%28buff%29.png/revision/latest?cb=20200604205700&format=original",
+    "name_es": "Ojo de aspecto sospechoso",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Suspicious_Looking_Tentacle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SuspiciousTentacle"
+  },
+  {
+    "id": 191,
+    "name": "Companion Cube",
+    "wiki_link": "https://terraria.fandom.com/wiki/Companion_Cube",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d0/Companion_Cube_%28buff%29.png/revision/latest?cb=20160522171507&format=original",
+    "name_es": "Cubo de compañía",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Companion_Cube?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "CompanionCube"
+  },
+  {
+    "id": 192,
+    "name": "Sugar Rush",
+    "wiki_link": "https://terraria.fandom.com/wiki/Slice_of_Cake",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Sugar_Rush.png/revision/latest?cb=20200518133337&format=original",
+    "name_es": "Pico azucarado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Slice_of_Cake?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SugarRush"
+  },
+  {
+    "id": 193,
+    "name": "Basilisk Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ancient_Horn",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/71/Basilisk_Mount_%28buff%29.png/revision/latest?cb=20160909172319&format=original",
+    "name_es": "Montura en basilisco",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Ancient_Horn?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BasiliskMount"
+  },
+  {
+    "id": 194,
+    "name": "Mighty Wind",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mighty_Wind",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Mighty_Wind.png/revision/latest?cb=20160909204805&format=original",
+    "name_es": "Viento fuerte",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Mighty_Wind?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WindPushed"
+  },
+  {
+    "id": 195,
+    "name": "Withered Armor",
+    "wiki_link": "https://terraria.fandom.com/wiki/Wither_Beast",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Withered_Armor.png/revision/latest?cb=20161116064232&format=original",
+    "name_es": "Armadura marchita",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Wither_Beast?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WitheredArmor"
+  },
+  {
+    "id": 196,
+    "name": "Withered Weapon",
+    "wiki_link": "https://terraria.fandom.com/wiki/Etherian_Lightning_Bug",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Withered_Weapon.png/revision/latest?cb=20161116064238&format=original",
+    "name_es": "Arma marchita",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Etherian_Lightning_Bug?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WitheredWeapon"
+  },
+  {
+    "id": 197,
+    "name": "Oozed",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ogre",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Oozed.png/revision/latest?cb=20161116064125&format=original",
+    "name_es": "Pringado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Ogre?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "OgreSpit"
+  },
+  {
+    "id": 198,
+    "name": "Striking Moment",
+    "wiki_link": "https://terraria.fandom.com/wiki/Striking_Moment",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Striking_Moment.png/revision/latest?cb=20161116064307&format=original",
+    "name_es": "Momento impactante",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Striking_Moment?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ParryDamageBuff"
+  },
+  {
+    "id": 199,
+    "name": "Creative Shock",
+    "wiki_link": "https://terraria.fandom.com/wiki/Creative_Shock",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Creative_Shock.png/revision/latest?cb=20161115233826&format=original",
+    "name_es": "Impacto creativo",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Creative_Shock?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NoBuilding"
+  },
+  {
+    "id": 200,
+    "name": "Propeller Gato",
+    "wiki_link": "https://terraria.fandom.com/wiki/Gato_Egg",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/09/Propeller_Gato_%28buff%29.png/revision/latest?cb=20161116023455&format=original",
+    "name_es": "Gatocóptero",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Gato_Egg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetDD2Gato"
+  },
+  {
+    "id": 201,
+    "name": "Flickerwick",
+    "wiki_link": "https://terraria.fandom.com/wiki/Creeper_Egg",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Flickerwick_%28buff%29.png/revision/latest?cb=20161116010552&format=original",
+    "name_es": "Espirillama",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Creeper_Egg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetDD2Ghost"
+  },
+  {
+    "id": 202,
+    "name": "Hoardagron",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dragon_Egg",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Hoardagron_%28buff%29.png/revision/latest?cb=20161115215109&format=original",
+    "name_es": "Hordragón",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Dragon_Egg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PetDD2Dragon"
+  },
+  {
+    "id": 203,
+    "name": "Betsy's Curse",
+    "wiki_link": "https://terraria.fandom.com/wiki/Betsy's_Wrath",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Betsy%27s_Curse.png/revision/latest?cb=20161121230744&format=original",
+    "name_es": "Maldición de Betsy",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Betsy%27s_Wrath?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BetsysCurse"
+  },
+  {
+    "id": 204,
+    "name": "Oiled",
+    "wiki_link": "https://terraria.fandom.com/wiki/Oiled",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Betsy%27s_Curse.png/revision/latest?cb=20161121230744&format=original",
+    "name_es": "Embadurnado",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Oiled?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Oiled"
+  },
+  {
+    "id": 205,
+    "name": "Ballista Panic!",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ballista_Panic!",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Ballista_Panic%21.png/revision/latest?cb=20161116063625&format=original",
+    "name_es": "¡Pánico balistil!",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Ballista_Panic!?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BallistaPanic"
+  },
+  {
+    "id": 206,
+    "name": "Plenty Satisfied",
+    "wiki_link": "https://terraria.fandom.com/wiki/Well_Fed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2a/Plenty_Satisfied.png/revision/latest?cb=20200517042953&format=original",
+    "name_es": "Completamente satisfecho",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Completamente_satisfecho",
+    "internal_name": "WellFed2"
+  },
+  {
+    "id": 207,
+    "name": "Exquisitely Stuffed",
+    "wiki_link": "https://terraria.fandom.com/wiki/Well_Fed",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Exquisitely_Stuffed.png/revision/latest?cb=20200517043012&format=original",
+    "name_es": "Lleno de exquisiteces",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Lleno_de_exquisiteces",
+    "internal_name": "WellFed3"
+  },
+  {
+    "id": 208,
+    "name": "Minecart (Desert (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Minecart_%28Desert%29_%28buff%29.png/revision/latest?cb=20200519132404&format=original",
+    "name_es": "Vagoneta del desierto (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_del_desierto",
+    "internal_name": "DesertMinecartRight"
+  },
+  {
+    "id": 209,
+    "name": "Minecart (Desert (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Minecart_%28Desert%29_%28buff%29.png/revision/latest?cb=20200519132404&format=original",
+    "name_es": "Vagoneta del desierto (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_del_desierto",
+    "internal_name": "DesertMinecartLeft"
+  },
+  {
+    "id": 210,
+    "name": "Minecart (Minecarp (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Minecart_%28Minecarp%29_%28buff%29.png/revision/latest?cb=20200519132426&format=original",
+    "name_es": "Vagoneta carpa (derecha)",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "FishMinecartRight"
+  },
+  {
+    "id": 211,
+    "name": "Minecart (Minecarp (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Minecart_%28Minecarp%29_%28buff%29.png/revision/latest?cb=20200519132426&format=original",
+    "name_es": "Vagoneta carpa (izquierda)",
+    "wiki_link_es": null,
+    "internal_name": "FishMinecartLeft"
+  },
+  {
+    "id": 212,
+    "name": "Golf Cart",
+    "wiki_link": "https://terraria.fandom.com/wiki/Golf_Cart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Golf_Cart_%28buff%29.png/revision/latest?cb=20200517043059&format=original",
+    "name_es": "Carro de golf",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Carro_de_golf",
+    "internal_name": "GolfCartMount"
+  },
+  {
+    "id": 213,
+    "name": "Sanguine Bat",
+    "wiki_link": "https://terraria.fandom.com/wiki/Sanguine_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Sanguine_Bat.png/revision/latest?cb=20200517043116&format=original",
+    "name_es": "Murciélago sanguinario",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Murci%C3%A9lago_sanguinario",
+    "internal_name": "BatOfLight"
+  },
+  {
+    "id": 214,
+    "name": "Vampire Frog",
+    "wiki_link": "https://terraria.fandom.com/wiki/Vampire_Frog_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Vampire_Frog.png/revision/latest?cb=20200517043345&format=original",
+    "name_es": "Rana vampiro",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Rana_vampiro",
+    "internal_name": "VampireFrog"
+  },
+  {
+    "id": 215,
+    "name": "The Bast Defense",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bast_Statue",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/The_Bast_Defense.png/revision/latest?cb=20200517043403&format=original",
+    "name_es": "Defensa de Bast",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Defensa_de_Bast",
+    "internal_name": "CatBast"
+  },
+  {
+    "id": 216,
+    "name": "Baby Finch",
+    "wiki_link": "https://terraria.fandom.com/wiki/Finch_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cb/Baby_Finch.png/revision/latest?cb=20200517023002&format=original",
+    "name_es": "Finch bebé",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Finch_beb%C3%A9",
+    "internal_name": "BabyBird"
+  },
+  {
+    "id": 217,
+    "name": "Estee",
+    "wiki_link": "https://terraria.fandom.com/wiki/Celestial_Wand",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Estee.png/revision/latest?cb=20200517043429&format=original",
+    "name_es": "Estee",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Estee",
+    "internal_name": "UpbeatStar"
+  },
+  {
+    "id": 218,
+    "name": "Sugar Glider",
+    "wiki_link": "https://terraria.fandom.com/wiki/Eucalyptus_Sap",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Sugar_Glider_%28buff%29.png/revision/latest?cb=20200517043441&format=original",
+    "name_es": "Planeador de azúcar",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Planeador_de_az%C3%BAcar",
+    "internal_name": "SugarGlider"
+  },
+  {
+    "id": 219,
+    "name": "Shark Pup",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shark_Bait",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Shark_Pup_%28buff%29.png/revision/latest?cb=20200517043500&format=original",
+    "name_es": "Cachorro de tiburón",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Cachorro_de_tibur%C3%B3n",
+    "internal_name": "SharkPup"
+  },
+  {
+    "id": 220,
+    "name": "Minecart (Bee (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Minecart_%28Bee%29_%28buff%29.png/revision/latest?cb=20200519131303&format=original",
+    "name_es": "Vagoneta de abeja (derecha)",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeeMinecartRight"
+  },
+  {
+    "id": 221,
+    "name": "Minecart (Bee (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Minecart_%28Bee%29_%28buff%29.png/revision/latest?cb=20200519131303&format=original",
+    "name_es": "Vagoneta de abeja (izquierda)",
+    "wiki_link_es": null,
+    "internal_name": "BeeMinecartLeft"
+  },
+  {
+    "id": 222,
+    "name": "Minecart (Ladybug (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Minecart_%28Ladybug%29_%28buff%29.png/revision/latest?cb=20200519131331&format=original",
+    "name_es": "Vagoneta de mariquita (derecha)",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "LadybugMinecartRight"
+  },
+  {
+    "id": 223,
+    "name": "Minecart (Ladybug (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Minecart_%28Ladybug%29_%28buff%29.png/revision/latest?cb=20200519131331&format=original",
+    "name_es": "Vagoneta de mariquita (izquierda)",
+    "wiki_link_es": null,
+    "internal_name": "LadybugMinecartLeft"
+  },
+  {
+    "id": 224,
+    "name": "Minecart (Pigron (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Minecart_%28Pigron%29_%28buff%29.png/revision/latest?cb=20200519131356&format=original",
+    "name_es": "Vagoneta de cerdidragón (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_cerdidrag%C3%B3n",
+    "internal_name": "PigronMinecartRight"
+  },
+  {
+    "id": 225,
+    "name": "Minecart (Pigron (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Minecart_%28Pigron%29_%28buff%29.png/revision/latest?cb=20200519131356&format=original",
+    "name_es": "Vagoneta de cerdidragón (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_cerdidrag%C3%B3n",
+    "internal_name": "PigronMinecartLeft"
+  },
+  {
+    "id": 226,
+    "name": "Minecart (Sunflower (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Minecart_%28Sunflower%29_%28buff%29.png/revision/latest?cb=20200519131432&format=original",
+    "name_es": "Vagoneta de girasol (derecha)",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "SunflowerMinecartRight"
+  },
+  {
+    "id": 227,
+    "name": "Minecart (Sunflower (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Minecart_%28Sunflower%29_%28buff%29.png/revision/latest?cb=20200519131432&format=original",
+    "name_es": "Vagoneta de girasol (izquierda)",
+    "wiki_link_es": null,
+    "internal_name": "SunflowerMinecartLeft"
+  },
+  {
+    "id": 228,
+    "name": "Minecart (Demonic Hellcart (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Minecart_%28Demonic_Hellcart%29_%28buff%29.png/revision/latest?cb=20200519131520&format=original",
+    "name_es": "Carro infernal demoníaco (derecha)",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "HellMinecartRight"
+  },
+  {
+    "id": 229,
+    "name": "Minecart (Demonic Hellcart (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Minecart_%28Demonic_Hellcart%29_%28buff%29.png/revision/latest?cb=20200519131520&format=original",
+    "name_es": "Carro infernal demoníaco (izquierda)",
+    "wiki_link_es": null,
+    "internal_name": "HellMinecartLeft"
+  },
+  {
+    "id": 230,
+    "name": "Witch's Broom",
+    "wiki_link": "https://terraria.fandom.com/wiki/Witch's_Broom",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Witch%27s_Broom_%28buff%29.png/revision/latest?cb=20200519131541&format=original",
+    "name_es": "Escoba de bruja",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Escoba_de_bruja",
+    "internal_name": "WitchBroom"
+  },
+  {
+    "id": 231,
+    "name": "Minecart (Shroom (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Minecart_%28Shroom%29_%28buff%29.png/revision/latest?cb=20200519131610&format=original",
+    "name_es": "Vagoneta champiñón (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_champi%C3%B1%C3%B3n",
+    "internal_name": "ShroomMinecartRight"
+  },
+  {
+    "id": 232,
+    "name": "Minecart (Shroom (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Minecart_%28Shroom%29_%28buff%29.png/revision/latest?cb=20200519131610&format=original",
+    "name_es": "Vagoneta champiñón (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_champi%C3%B1%C3%B3n",
+    "internal_name": "ShroomMinecartLeft"
+  },
+  {
+    "id": 233,
+    "name": "Minecart (Amethyst (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Minecart_%28Amethyst%29_%28buff%29.png/revision/latest?cb=20200519131634&format=original",
+    "name_es": "Vagoneta de amatista (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_amatista",
+    "internal_name": "AmethystMinecartRight"
+  },
+  {
+    "id": 234,
+    "name": "Minecart (Amethyst (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Minecart_%28Amethyst%29_%28buff%29.png/revision/latest?cb=20200519131634&format=original",
+    "name_es": "Vagoneta de amatista (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_amatista",
+    "internal_name": "AmethystMinecartLeft"
+  },
+  {
+    "id": 235,
+    "name": "Minecart (Topaz (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Minecart_%28Topaz%29_%28buff%29.png/revision/latest?cb=20200519131657&format=original",
+    "name_es": "Vagoneta de topacio (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_topacio",
+    "internal_name": "TopazMinecartRight"
+  },
+  {
+    "id": 236,
+    "name": "Minecart (Topaz (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Minecart_%28Topaz%29_%28buff%29.png/revision/latest?cb=20200519131657&format=original",
+    "name_es": "Vagoneta de topacio (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_topacio",
+    "internal_name": "TopazMinecartLeft"
+  },
+  {
+    "id": 237,
+    "name": "Minecart (Sapphire (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cb/Minecart_%28Sapphire%29_%28buff%29.png/revision/latest?cb=20200519131744&format=original",
+    "name_es": "Vagoneta de zafiro (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_zafiro",
+    "internal_name": "SapphireMinecartRight"
+  },
+  {
+    "id": 238,
+    "name": "Minecart (Sapphire (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cb/Minecart_%28Sapphire%29_%28buff%29.png/revision/latest?cb=20200519131744&format=original",
+    "name_es": "Vagoneta de zafiro (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_zafiro",
+    "internal_name": "SapphireMinecartLeft"
+  },
+  {
+    "id": 239,
+    "name": "Minecart (Emerald (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3f/Minecart_%28Emerald%29_%28buff%29.png/revision/latest?cb=20200519131805&format=original",
+    "name_es": "Vagoneta de esmeralda (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_esmeralda",
+    "internal_name": "EmeraldMinecartRight"
+  },
+  {
+    "id": 240,
+    "name": "Minecart (Emerald (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3f/Minecart_%28Emerald%29_%28buff%29.png/revision/latest?cb=20200519131805&format=original",
+    "name_es": "Vagoneta de esmeralda (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_esmeralda",
+    "internal_name": "EmeraldMinecartLeft"
+  },
+  {
+    "id": 241,
+    "name": "Minecart (Ruby (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1e/Minecart_%28Ruby%29_%28buff%29.png/revision/latest?cb=20200519131827&format=original",
+    "name_es": "Vagoneta de rubí (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_rub%C3%AD",
+    "internal_name": "RubyMinecartRight"
+  },
+  {
+    "id": 242,
+    "name": "Minecart (Ruby (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1e/Minecart_%28Ruby%29_%28buff%29.png/revision/latest?cb=20200519131827&format=original",
+    "name_es": "Vagoneta de rubí (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_rub%C3%AD",
+    "internal_name": "RubyMinecartLeft"
+  },
+  {
+    "id": 243,
+    "name": "Minecart (Diamond (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Minecart_%28Diamond%29_%28buff%29.png/revision/latest?cb=20200519131848&format=original",
+    "name_es": "Vagoneta de diamante (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_diamante",
+    "internal_name": "DiamondMinecartRight"
+  },
+  {
+    "id": 244,
+    "name": "Minecart (Diamond (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Minecart_%28Diamond%29_%28buff%29.png/revision/latest?cb=20200519131848&format=original",
+    "name_es": "Vagoneta de diamante (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_diamante",
+    "internal_name": "DiamondMinecartLeft"
+  },
+  {
+    "id": 245,
+    "name": "Minecart (Amber (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Minecart_%28Amber%29_%28buff%29.png/revision/latest?cb=20200519131905&format=original",
+    "name_es": "Vagoneta de ámbar (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_%C3%A1mbar",
+    "internal_name": "AmberMinecartRight"
+  },
+  {
+    "id": 246,
+    "name": "Minecart (Amber (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Minecart_%28Amber%29_%28buff%29.png/revision/latest?cb=20200519131905&format=original",
+    "name_es": "Vagoneta de ámbar (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_de_%C3%A1mbar",
+    "internal_name": "AmberMinecartLeft"
+  },
+  {
+    "id": 247,
+    "name": "Minecart (Beetle (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Minecart_%28Beetle%29_%28buff%29.png/revision/latest?cb=20200519131927&format=original",
+    "name_es": "Vagoneta de escarabajo (derecha)",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BeetleMinecartRight"
+  },
+  {
+    "id": 248,
+    "name": "Minecart (Beetle (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Minecart_%28Beetle%29_%28buff%29.png/revision/latest?cb=20200519131927&format=original",
+    "name_es": "Vagoneta de escarabajo (izquierda)",
+    "wiki_link_es": null,
+    "internal_name": "BeetleMinecartLeft"
+  },
+  {
+    "id": 249,
+    "name": "Minecart (Meowmere (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Minecart_%28Meowmere%29_%28buff%29.png/revision/latest?cb=20200519131947&format=original",
+    "name_es": "Vagoneta Filomiau (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_Filomiau",
+    "internal_name": "MeowmereMinecartRight"
+  },
+  {
+    "id": 250,
+    "name": "Minecart (Meowmere (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Minecart_%28Meowmere%29_%28buff%29.png/revision/latest?cb=20200519131947&format=original",
+    "name_es": "Vagoneta Filomiau (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_Filomiau",
+    "internal_name": "MeowmereMinecartLeft"
+  },
+  {
+    "id": 251,
+    "name": "Minecart (Party (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Minecart_%28Party%29_%28buff%29.png/revision/latest?cb=20200519132007&format=original",
+    "name_es": "Vagón de fiesta (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vag%C3%B3n_de_fiesta",
+    "internal_name": "PartyMinecartRight"
+  },
+  {
+    "id": 252,
+    "name": "Minecart (Party (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Minecart_%28Party%29_%28buff%29.png/revision/latest?cb=20200519132007&format=original",
+    "name_es": "Vagón de fiesta (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vag%C3%B3n_de_fiesta",
+    "internal_name": "PartyMinecartLeft"
+  },
+  {
+    "id": 253,
+    "name": "Minecart (The Dutchman (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Minecart_%28The_Dutchman%29_%28buff%29.png/revision/latest?cb=20200519132042&format=original",
+    "name_es": "El Holandés (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/El_Holand%C3%A9s",
+    "internal_name": "PirateMinecartRight"
+  },
+  {
+    "id": 254,
+    "name": "Minecart (The Dutchman (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Minecart_%28The_Dutchman%29_%28buff%29.png/revision/latest?cb=20200519132042&format=original",
+    "name_es": "El Holandés (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/El_Holand%C3%A9s",
+    "internal_name": "PirateMinecartLeft"
+  },
+  {
+    "id": 255,
+    "name": "Minecart (Steampunk (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Minecart_%28Steampunk%29_%28buff%29.png/revision/latest?cb=20200519132104&format=original",
+    "name_es": "Vagoneta steampunk (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_steampunk",
+    "internal_name": "SteampunkMinecartRight"
+  },
+  {
+    "id": 256,
+    "name": "Minecart (Steampunk (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Minecart_%28Steampunk%29_%28buff%29.png/revision/latest?cb=20200519132104&format=original",
+    "name_es": "Vagoneta steampunk (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_steampunk",
+    "internal_name": "SteampunkMinecartLeft"
+  },
+  {
+    "id": 257,
+    "name": "Lucky",
+    "wiki_link": "https://terraria.fandom.com/wiki/Lucky_(buff)",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a6/Lucky.png/revision/latest?cb=20200517043541&format=original",
+    "name_es": "Afortunado",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Afortunado_(efecto_positivo)",
+    "internal_name": "Lucky"
+  },
+  {
+    "id": 258,
+    "name": "Lil' Harpy",
+    "wiki_link": "https://terraria.fandom.com/wiki/Birdie_Rattle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Lil%27_Harpy_%28buff%29.png/revision/latest?cb=20200517043550&format=original",
+    "name_es": "Pequeña arpía",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Peque%C3%B1a_arp%C3%ADa",
+    "internal_name": "LilHarpy"
+  },
+  {
+    "id": 259,
+    "name": "Fennec Fox",
+    "wiki_link": "https://terraria.fandom.com/wiki/Exotic_Chew_Toy",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Fennec_Fox_%28buff%29.png/revision/latest?cb=20200517043607&format=original",
+    "name_es": "Zorro fénec",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Zorro_f%C3%A9nec",
+    "internal_name": "FennecFox"
+  },
+  {
+    "id": 260,
+    "name": "Glittery Butterfly",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bedazzled_Nectar",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Glittery_Butterfly_%28buff%29.png/revision/latest?cb=20200517043642&format=original",
+    "name_es": "Mariposa reluciente",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Mariposa_reluciente",
+    "internal_name": "GlitteryButterfly"
+  },
+  {
+    "id": 261,
+    "name": "Baby Imp",
+    "wiki_link": "https://terraria.fandom.com/wiki/Slice_of_Hell_Cake",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Baby_Imp_%28buff%29.png/revision/latest?cb=20200517043706&format=original",
+    "name_es": "Diablillo bebé",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Diablillo_beb%C3%A9",
+    "internal_name": "BabyImp"
+  },
+  {
+    "id": 262,
+    "name": "Baby Red Panda",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bamboo_Leaf",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Baby_Red_Panda_%28buff%29.png/revision/latest?cb=20200517043719&format=original",
+    "name_es": "Panda rojo bebé",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Panda_rojo_beb%C3%A9",
+    "internal_name": "BabyRedPanda"
+  },
+  {
+    "id": 263,
+    "name": "Desert Tiger",
+    "wiki_link": "https://terraria.fandom.com/wiki/Desert_Tiger_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Desert_Tiger_%28buff%29.png/revision/latest?cb=20200517043728&format=original",
+    "name_es": "Tigre del desierto",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Tigre_del_desierto",
+    "internal_name": "StormTiger"
+  },
+  {
+    "id": 264,
+    "name": "Plantero",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mud_Bud",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Plantero_%28buff%29.png/revision/latest?cb=20200517043752&format=original",
+    "name_es": "Plantero",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Plantero",
+    "internal_name": "Plantero"
+  },
+  {
+    "id": 265,
+    "name": "Flamingo",
+    "wiki_link": "https://terraria.fandom.com/wiki/Mollusk_Whistle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Flamingo_%28buff%29.png/revision/latest?cb=20200517043802&format=original",
+    "name_es": "Flamenco",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Flamenco",
+    "internal_name": "Flamingo"
+  },
+  {
+    "id": 266,
+    "name": "Dynamite Kitten",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ball_O'_Fuse_Wire",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Dynamite_Kitten_%28buff%29.png/revision/latest?cb=20200517043809&format=original",
+    "name_es": "Gatito dinamita",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Gatito_dinamita",
+    "internal_name": "DynamiteKitten"
+  },
+  {
+    "id": 267,
+    "name": "Baby Werewolf",
+    "wiki_link": "https://terraria.fandom.com/wiki/Full_Moon_Squeaky_Toy",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Baby_Werewolf_%28buff%29.png/revision/latest?cb=20200517043818&format=original",
+    "name_es": "Hombre lobo bebé",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Hombre_lobo_beb%C3%A9",
+    "internal_name": "BabyWerewolf"
+  },
+  {
+    "id": 268,
+    "name": "Shadow Mimic",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ornate_Shadow_Key",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/69/Shadow_Mimic_%28buff%29.png/revision/latest?cb=20200517043827&format=original",
+    "name_es": "Cofre falso sombrío",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Cofre_falso_sombr%C3%ADo",
+    "internal_name": "ShadowMimic"
+  },
+  {
+    "id": 269,
+    "name": "Minecart (Coffin (Right))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Minecart_%28Coffin%29_%28buff%29.png/revision/latest?cb=20200519132152&format=original",
+    "name_es": "Vagoneta ataúd (derecha)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_ata%C3%BAd",
+    "internal_name": "CoffinMinecartRight"
+  },
+  {
+    "id": 270,
+    "name": "Minecart (Coffin (Left))",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Minecart_%28Coffin%29_%28buff%29.png/revision/latest?cb=20200519132152&format=original",
+    "name_es": "Vagoneta ataúd (izquierda)",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Vagoneta_ata%C3%BAd",
+    "internal_name": "CoffinMinecartLeft"
+  },
+  {
+    "id": 271,
+    "name": "Enchanted Daggers",
+    "wiki_link": "https://terraria.fandom.com/wiki/Blade_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Enchanted_Daggers.png/revision/latest?cb=20200517044055&format=original",
+    "name_es": "Dagas encantadas",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Dagas_encantadas",
+    "internal_name": "Smolstar"
+  },
+  {
+    "id": 272,
+    "name": "Digging Molecart (Left)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Digging_Molecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Minecart_%28Digging_Molecart%29_%28buff%29.png/revision/latest?cb=20200517044103&format=original",
+    "name_es": "Carrotopo de excavación (izquierda)",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Digging_Molecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DiggingMoleMinecartRight"
+  },
+  {
+    "id": 273,
+    "name": "Digging Molecart (Right)",
+    "wiki_link": "https://terraria.fandom.com/wiki/Digging_Molecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Minecart_%28Digging_Molecart%29_%28buff%29.png/revision/latest?cb=20200517044103&format=original",
+    "name_es": "Carrotopo de excavación (derecha)",
+    "wiki_link_es": null,
+    "internal_name": "DiggingMoleMinecartLeft"
+  },
+  {
+    "id": 274,
+    "name": "Volt Bunny",
+    "wiki_link": "https://terraria.fandom.com/wiki/Lightning_Carrot",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/71/Volt_Bunny_%28buff%29.png/revision/latest?cb=20200517044131&format=original",
+    "name_es": "Conejo voltaico",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Conejo_voltaico",
+    "internal_name": "VoltBunny"
+  },
+  {
+    "id": 275,
+    "name": "Painted Horse Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Saddles",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Painted_Horse_Mount_%28buff%29.png/revision/latest?cb=20200517044139&format=original",
+    "name_es": "Montura de caballo pintado",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_caballo_pintado",
+    "internal_name": "PaintedHorseMount"
+  },
+  {
+    "id": 276,
+    "name": "Majestic Horse Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Saddles",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Majestic_Horse_Mount_%28buff%29.png/revision/latest?cb=20200517044147&format=original",
+    "name_es": "Montura de caballo majestuoso",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_caballo_majestuoso",
+    "internal_name": "MajesticHorseMount"
+  },
+  {
+    "id": 277,
+    "name": "Dark Horse Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Saddles",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d6/Dark_Horse_Mount_%28buff%29.png/revision/latest?cb=20200517044155&format=original",
+    "name_es": "Montura de caballo negro",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_caballo_negro",
+    "internal_name": "DarkHorseMount"
+  },
+  {
+    "id": 278,
+    "name": "Pogo Stick Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Pogo_Stick",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/90/Pogo_Stick_Mount_%28buff%29.png/revision/latest?cb=20200517044205&format=original",
+    "name_es": "Montura de bastón rebotante",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_bast%C3%B3n_rebotante",
+    "internal_name": "PogoStickMount"
+  },
+  {
+    "id": 279,
+    "name": "Pirate Ship Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/The_Black_Spot",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Pirate_Ship_Mount_%28buff%29.png/revision/latest?cb=20200517044215&format=original",
+    "name_es": "Montura de barco pirata",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_barco_pirata",
+    "internal_name": "PirateShipMount"
+  },
+  {
+    "id": 280,
+    "name": "Tree Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hexxed_Branch",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Tree_Mount_%28buff%29.png/revision/latest?cb=20200517044514&format=original",
+    "name_es": "Montura de árbol",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_%C3%A1rbol",
+    "internal_name": "SpookyWoodMount"
+  },
+  {
+    "id": 281,
+    "name": "Santank Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Toy_Tank",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Santank_Mount_%28buff%29.png/revision/latest?cb=20200517044522&format=original",
+    "name_es": "Montura de papátanque",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_pap%C3%A1tanque",
+    "internal_name": "SantankMount"
+  },
+  {
+    "id": 282,
+    "name": "Goat Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Goat_Skull",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Goat_Mount_%28buff%29.png/revision/latest?cb=20200517044528&format=original",
+    "name_es": "Montura de cabra",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_cabra",
+    "internal_name": "WallOfFleshGoatMount"
+  },
+  {
+    "id": 283,
+    "name": "Book Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dark_Mage's_Tome",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Book_Mount_%28buff%29.png/revision/latest?cb=20200517044535&format=original",
+    "name_es": "Montura de libro",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_libro",
+    "internal_name": "DarkMageBookMount"
+  },
+  {
+    "id": 284,
+    "name": "Slime Prince",
+    "wiki_link": "https://terraria.fandom.com/wiki/Royal_Delight",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d6/Slime_Prince_%28buff%29.png/revision/latest?cb=20200517044546&format=original",
+    "name_es": "Príncipe slime",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Pr%C3%ADncipe_slime",
+    "internal_name": "KingSlimePet"
+  },
+  {
+    "id": 285,
+    "name": "Suspicious Eye",
+    "wiki_link": "https://terraria.fandom.com/wiki/Suspicious_Grinning_Eye",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Suspicious_Eye_%28buff%29.png/revision/latest?cb=20200517044553&format=original",
+    "name_es": "Ojo sospechoso",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Ojo_sospechoso",
+    "internal_name": "EyeOfCthulhuPet"
+  },
+  {
+    "id": 286,
+    "name": "Eater of Worms",
+    "wiki_link": "https://terraria.fandom.com/wiki/Writhing_Remains",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Eater_of_Worms_%28buff%29.png/revision/latest?cb=20200517044606&format=original",
+    "name_es": "Devoragusanos",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Devoragusanos",
+    "internal_name": "EaterOfWorldsPet"
+  },
+  {
+    "id": 287,
+    "name": "Spider Brain",
+    "wiki_link": "https://terraria.fandom.com/wiki/Brain_in_a_Jar",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/01/Spider_Brain_%28buff%29.png/revision/latest?cb=20200521132941&format=original",
+    "name_es": "Cerebro de araña",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Cerebro_de_ara%C3%B1a",
+    "internal_name": "BrainOfCthulhuPet"
+  },
+  {
+    "id": 288,
+    "name": "Skeletron Jr.",
+    "wiki_link": "https://terraria.fandom.com/wiki/Possessed_Skull",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Skeletron_Jr._%28buff%29.png/revision/latest?cb=20200517044622&format=original",
+    "name_es": "Skeletron Jr.",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Skeletron_Jr.",
+    "internal_name": "SkeletronPet"
+  },
+  {
+    "id": 289,
+    "name": "Honey Bee",
+    "wiki_link": "https://terraria.fandom.com/wiki/Sparkling_Honey",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Honey_Bee_%28buff%29.png/revision/latest?cb=20200517044629&format=original",
+    "name_es": "Abeja de la miel",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Abeja_de_la_miel",
+    "internal_name": "QueenBeePet"
+  },
+  {
+    "id": 290,
+    "name": "Destroyer-Lite",
+    "wiki_link": "https://terraria.fandom.com/wiki/Deactivated_Probe",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Destroyer-Lite_%28buff%29.png/revision/latest?cb=20200517044750&format=original",
+    "name_es": "Mini Destructor",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Mini_Destructor",
+    "internal_name": "DestroyerPet"
+  },
+  {
+    "id": 291,
+    "name": "Rez and Spaz",
+    "wiki_link": "https://terraria.fandom.com/wiki/Pair_of_Eyeballs",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Rez_and_Spaz_%28buff%29.png/revision/latest?cb=20200517044800&format=original",
+    "name_es": "Rez y Spaz",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Rez_y_Spaz",
+    "internal_name": "TwinsPet"
+  },
+  {
+    "id": 292,
+    "name": "Mini Prime",
+    "wiki_link": "https://terraria.fandom.com/wiki/Robotic_Skull",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dd/Mini_Prime_%28buff%29.png/revision/latest?cb=20200517044809&format=original",
+    "name_es": "Minimayor",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Minimayor",
+    "internal_name": "SkeletronPrimePet"
+  },
+  {
+    "id": 293,
+    "name": "Plantera Seedling",
+    "wiki_link": "https://terraria.fandom.com/wiki/Plantera_Seedling",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Plantera_Seedling_%28buff%29.png/revision/latest?cb=20200520055605&format=original",
+    "name_es": "Semillera de plantera",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Plantera_Seedling?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PlanteraPet"
+  },
+  {
+    "id": 294,
+    "name": "Toy Golem",
+    "wiki_link": "https://terraria.fandom.com/wiki/Guardian_Golem",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e3/Toy_Golem_%28buff%29.png/revision/latest?cb=20200517044821&format=original",
+    "name_es": "Gólem de juguete",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/G%C3%B3lem_de_juguete",
+    "internal_name": "GolemPet"
+  },
+  {
+    "id": 295,
+    "name": "Tiny Fishron",
+    "wiki_link": "https://terraria.fandom.com/wiki/Pork_of_the_Sea",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Tiny_Fishron_%28buff%29.png/revision/latest?cb=20200517044829&format=original",
+    "name_es": "Fishron diminuto",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Fishron_diminuto",
+    "internal_name": "DukeFishronPet"
+  },
+  {
+    "id": 296,
+    "name": "Phantasmal Dragon",
+    "wiki_link": "https://terraria.fandom.com/wiki/Tablet_Fragment",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Phantasmal_Dragon_%28buff%29.png/revision/latest?cb=20200517044836&format=original",
+    "name_es": "Dragón fantasmal",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Drag%C3%B3n_fantasmal",
+    "internal_name": "LunaticCultistPet"
+  },
+  {
+    "id": 297,
+    "name": "Moonling",
+    "wiki_link": "https://terraria.fandom.com/wiki/Piece_of_Moon_Squid",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Moonling_%28buff%29.png/revision/latest?cb=20200517044843&format=original",
+    "name_es": "Vástago lunar",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/V%C3%A1stago_lunar",
+    "internal_name": "MoonLordPet"
+  },
+  {
+    "id": 298,
+    "name": "Fairy Princess",
+    "wiki_link": "https://terraria.fandom.com/wiki/Jewel_of_Light",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Fairy_Princess_%28buff%29.png/revision/latest?cb=20200525005826&format=original",
+    "name_es": "Princesa hada",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Princesa_hada",
+    "internal_name": "FairyQueenPet"
+  },
+  {
+    "id": 299,
+    "name": "Jack 'O Lantern",
+    "wiki_link": "https://terraria.fandom.com/wiki/Pumpkin_Scented_Candle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/34/Jack_%27O_Lantern_%28buff%29.png/revision/latest?cb=20200525025106&format=original",
+    "name_es": "Linterna calabaza",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Linterna_calabaza",
+    "internal_name": "PumpkingPet"
+  },
+  {
+    "id": 300,
+    "name": "Everscream Sapling",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shrub_Star",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Everscream_Sapling_%28buff%29.png/revision/latest?cb=20200517044920&format=original",
+    "name_es": "Retoño Gritoeterno",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Reto%C3%B1o_Gritoeterno",
+    "internal_name": "EverscreamPet"
+  },
+  {
+    "id": 301,
+    "name": "Ice Queen",
+    "wiki_link": "https://terraria.fandom.com/wiki/Frozen_Crown",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Ice_Queen_%28buff%29.png/revision/latest?cb=20200525024911&format=original",
+    "name_es": "Reina de Hielo",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Reina_de_Hielo",
+    "internal_name": "IceQueenPet"
+  },
+  {
+    "id": 302,
+    "name": "Alien Skater",
+    "wiki_link": "https://terraria.fandom.com/wiki/Cosmic_Skateboard",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Alien_Skater_%28buff%29.png/revision/latest?cb=20200517045051&format=original",
+    "name_es": "Patinador alienígena",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Patinador_alien%C3%ADgena",
+    "internal_name": "MartianPet"
+  },
+  {
+    "id": 303,
+    "name": "Baby Ogre",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ogre's_Club",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Baby_Ogre_%28buff%29.png/revision/latest?cb=20200517045113&format=original",
+    "name_es": "Ogro bebé",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Ogro_beb%C3%A9",
+    "internal_name": "DD2OgrePet"
+  },
+  {
+    "id": 304,
+    "name": "Itsy Betsy",
+    "wiki_link": "https://terraria.fandom.com/wiki/Betsy's_Egg",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Itsy_Betsy_%28buff%29.png/revision/latest?cb=20200517045121&format=original",
+    "name_es": "Mini Betsy",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Mini_Betsy",
+    "internal_name": "DD2BetsyPet"
+  },
+  {
+    "id": 305,
+    "name": "Lava Shark Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Superheated_Blood",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Lava_Shark_Mount_%28buff%29.png/revision/latest?cb=20200517045127&format=original",
+    "name_es": "Montura de tiburón de lava",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_tibur%C3%B3n_de_lava",
+    "internal_name": "LavaSharkMount"
+  },
+  {
+    "id": 306,
+    "name": "Titanium Barrier",
+    "wiki_link": "https://terraria.fandom.com/wiki/Titanium_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": "Barrera de titanio",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Barrera_de_titanio",
+    "internal_name": "TitaniumStorm"
+  },
+  {
+    "id": 307,
+    "name": "Leather Whip",
+    "wiki_link": "https://terraria.fandom.com/wiki/Leather_Whip",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "BlandWhipEnemyDebuff"
+  },
+  {
+    "id": 308,
+    "name": "Durendal's Blessing",
+    "wiki_link": "https://terraria.fandom.com/wiki/Durendal",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Durendal%27s_Blessing.png/revision/latest?cb=20200517045301&format=original",
+    "name_es": "Bendición de Durendal",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Bendici%C3%B3n_de_Durendal",
+    "internal_name": "SwordWhipPlayerBuff"
+  },
+  {
+    "id": 309,
+    "name": "Durendal",
+    "wiki_link": "https://terraria.fandom.com/wiki/Durendal",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "SwordWhipNPCDebuff"
+  },
+  {
+    "id": 310,
+    "name": "Dark Harvest",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dark_Harvest",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "ScytheWhipEnemyDebuff"
+  },
+  {
+    "id": 311,
+    "name": "Harvest Time",
+    "wiki_link": "https://terraria.fandom.com/wiki/Dark_Harvest",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Harvest_Time.png/revision/latest?cb=20200517045346&format=original",
+    "name_es": "Hora de la cosecha",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Hora_de_la_cosecha",
+    "internal_name": "ScytheWhipPlayerBuff"
+  },
+  {
+    "id": 312,
+    "name": "A Nice Buff",
+    "wiki_link": "https://terraria.fandom.com/wiki/Cool_Whip",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/63/A_Nice_Buff.png/revision/latest?cb=20200517045353&format=original",
+    "name_es": "Una buena mejora",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Una_buena_mejora",
+    "internal_name": "CoolWhipPlayerBuff"
+  },
+  {
+    "id": 313,
+    "name": "Firecracker",
+    "wiki_link": "https://terraria.fandom.com/wiki/Firecracker",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "FlameWhipEnemyDebuff"
+  },
+  {
+    "id": 314,
+    "name": "Jungle's Fury",
+    "wiki_link": "https://terraria.fandom.com/wiki/Snapthorn",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Jungle%27s_Fury.png/revision/latest?cb=20200517045407&format=original",
+    "name_es": "Furia de la jungla",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Furia_de_la_jungla",
+    "internal_name": "ThornWhipPlayerBuff"
+  },
+  {
+    "id": 315,
+    "name": "Snapthorn",
+    "wiki_link": "https://terraria.fandom.com/wiki/Snapthorn",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "ThornWhipNPCDebuff"
+  },
+  {
+    "id": 316,
+    "name": "Kaleidoscope",
+    "wiki_link": "https://terraria.fandom.com/wiki/Kaleidoscope",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "RainbowWhipNPCDebuff"
+  },
+  {
+    "id": 317,
+    "name": "Slime Princess",
+    "wiki_link": "https://terraria.fandom.com/wiki/Regal_Delicacy",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Slime_Princess_%28buff%29.png/revision/latest?cb=20200517045418&format=original",
+    "name_es": "Princesa slime",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Princesa_slime",
+    "internal_name": "QueenSlimePet"
+  },
+  {
+    "id": 318,
+    "name": "Winged Slime Mount",
+    "wiki_link": "https://terraria.fandom.com/wiki/Gelatinous_Pillion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/51/Winged_Slime_Mount_%28buff%29.png/revision/latest?cb=20200517045427&format=original",
+    "name_es": "Montura de slime alado",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Montura_de_slime_alado",
+    "internal_name": "QueenSlimeMount"
+  },
+  {
+    "id": 319,
+    "name": "Morning Star",
+    "wiki_link": "https://terraria.fandom.com/wiki/Morning_Star",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "MaceWhipNPCDebuff"
+  },
+  {
+    "id": 320,
+    "name": "Sparkle Slime",
+    "wiki_link": "https://terraria.fandom.com/wiki/Sparkle_Slime_Balloon",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Sparkle_Slime.png/revision/latest?cb=20200517045441&format=original",
+    "name_es": "Slime brillante",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Sparkle_Slime_Balloon?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "GelBalloonBuff"
+  },
+  {
+    "id": 321,
+    "name": "Cerebral Mindtrick",
+    "wiki_link": "https://terraria.fandom.com/wiki/Brain_of_Confusion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Cerebral_Mindtrick.png/revision/latest?cb=20200517045449&format=original",
+    "name_es": "Truco mental cerebral",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Truco_mental_cerebral",
+    "internal_name": "BrainOfConfusionBuff"
+  },
+  {
+    "id": 322,
+    "name": "Terraprisma",
+    "wiki_link": "https://terraria.fandom.com/wiki/Terraprisma",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Terraprisma_%28buff%29.png/revision/latest?cb=20200604205644&format=original",
+    "name_es": "Terraprisma",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Terraprisma",
+    "internal_name": "EmpressBlade"
+  },
+  {
+    "id": 323,
+    "name": "Hellfire",
+    "wiki_link": "https://terraria.fandom.com/wiki/Magma_Stone",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png/revision/latest?cb=20170708221138&format=original",
+    "name_es": "Fuego infernal",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Piedra_de_magma",
+    "internal_name": "OnFire3"
+  },
+  {
+    "id": 324,
+    "name": "Frostbite",
+    "wiki_link": "https://terraria.fandom.com/wiki/Frost_armor",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824&format=original",
+    "name_es": "Congelación",
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Frostbite?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Frostburn2"
+  },
+  {
+    "id": 325,
+    "name": "Flinx",
+    "wiki_link": "https://terraria.fandom.com/wiki/Flinx_Staff",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Flinx_%28buff%29.png/revision/latest?cb=20201013181354&format=original",
+    "name_es": "Flinx",
+    "wiki_link_es": "https://terraria.fandom.com/es/wiki/Flinx",
+    "internal_name": "FlinxMinion"
+  },
+  {
+    "id": 326,
+    "name": "Spinal Tap",
+    "wiki_link": "https://terraria.fandom.com/wiki/Spinal_Tap",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "BoneWhipNPCDebuff"
+  },
+  {
+    "id": 327,
+    "name": "Bernie",
+    "wiki_link": "https://terraria.fandom.com/wiki/Bernie's_Button",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Bernie_%28buff%29.png/revision/latest?cb=20211119035833&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Bernie%27s_Button?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BerniePet"
+  },
+  {
+    "id": 328,
+    "name": "Glommer",
+    "wiki_link": "https://terraria.fandom.com/wiki/Glommer's_Flower",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/71/Glommer_%28buff%29.png/revision/latest?cb=20211119035535&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Glommer%27s_Flower?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "GlommerPet"
+  },
+  {
+    "id": 329,
+    "name": "Tiny Deerclops",
+    "wiki_link": "https://terraria.fandom.com/wiki/Deerclops_Eyeball",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dd/Tiny_Deerclops_%28buff%29.png/revision/latest?cb=20211222235022&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Deerclops_Eyeball?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DeerclopsPet"
+  },
+  {
+    "id": 330,
+    "name": "Pig",
+    "wiki_link": "https://terraria.fandom.com/wiki/Monster_Meat",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/78/Pig_%28buff%29.png/revision/latest?cb=20211119033814&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Monster_Meat?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "PigPet"
+  },
+  {
+    "id": 331,
+    "name": "Chester",
+    "wiki_link": "https://terraria.fandom.com/wiki/Eye_Bone",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Chester_%28buff%29.png/revision/latest?cb=20211119042145&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Eye_Bone?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ChesterPet"
+  },
+  {
+    "id": 332,
+    "name": "Peckish",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hunger",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Peckish.png/revision/latest?cb=20211119040333&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Hunger?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "NeutralHunger"
+  },
+  {
+    "id": 333,
+    "name": "Hungry",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hunger",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a6/Hungry.png/revision/latest?cb=20211119040331&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Hunger?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Hunger"
+  },
+  {
+    "id": 334,
+    "name": "Starving",
+    "wiki_link": "https://terraria.fandom.com/wiki/Hunger",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Starving.png/revision/latest?cb=20211119040334&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Hunger?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Starving"
+  },
+  {
+    "id": 335,
+    "name": "Abigail",
+    "wiki_link": "https://terraria.fandom.com/wiki/Abigail's_Flower",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Abigail_%28buff%29.png/revision/latest?cb=20211119040330&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Abigail%27s_Flower?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "AbigailMinion"
+  },
+  {
+    "id": 336,
+    "name": "Hearty Meal",
+    "wiki_link": "https://terraria.fandom.com/wiki/Ham_Bat",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Hearty_Meal.png/revision/latest?cb=20211124235343&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Ham_Bat?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "HeartyMeal"
+  },
+  {
+    "id": 337,
+    "name": "Tentacle Spike",
+    "wiki_link": "https://terraria.fandom.com/wiki/Tentacle_Spike",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Distorted.png/revision/latest?cb=20150701080631&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "TentacleSpike"
+  },
+  {
+    "id": 338,
+    "name": "Fart Kart",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Fart_Kart_%28buff%29.png/revision/latest?cb=20230909165410&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "FartMinecartRight"
+  },
+  {
+    "id": 339,
+    "name": "Fart Kart",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Fart_Kart_%28buff%29.png/revision/latest?cb=20230909165410&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "FartMinecartLeft"
+  },
+  {
+    "id": 340,
+    "name": "Cool Whip",
+    "wiki_link": "https://terraria.fandom.com/wiki/Cool_Whip",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Titanium_Barrier.png/revision/latest?cb=20200517045148&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "CoolWhipNPCDebuff"
+  },
+  {
+    "id": 341,
+    "name": "Slime Royals",
+    "wiki_link": "https://terraria.fandom.com/wiki/Resplendent_Dessert",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Slime_Royals.png/revision/latest?cb=20221104183011&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Resplendent_Dessert?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DualSlimePet"
+  },
+  {
+    "id": 342,
+    "name": "Blessing of the Moon",
+    "wiki_link": "https://terraria.fandom.com/wiki/Lilith's_Necklace",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Blessing_of_the_Moon.png/revision/latest?cb=20230909165952&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Lilith%27s_Necklace?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WolfMount"
+  },
+  {
+    "id": 343,
+    "name": "Biome Sight",
+    "wiki_link": "https://terraria.fandom.com/wiki/Biome_Sight_Potion",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Biome_Sight.png/revision/latest?cb=20221114192026&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Biome_Sight_Potion?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BiomeSight"
+  },
+  {
+    "id": 344,
+    "name": "Blood Butchered",
+    "wiki_link": "https://terraria.fandom.com/wiki/Blood_Butcherer",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Blood_Butchered.png/revision/latest?cb=20221107130834&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Blood_Butcherer?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BloodButcherer"
+  },
+  {
+    "id": 345,
+    "name": "Junimo",
+    "wiki_link": "https://terraria.fandom.com/wiki/Stardrop",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e3/Junimo_%28buff%29.png/revision/latest?cb=20230408045304&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Stardrop?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "JunimoPet"
+  },
+  {
+    "id": 346,
+    "name": "Terra Fart Kart",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Terra_Fart_Kart_%28buff%29.png/revision/latest?cb=20230909170724&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Minecart?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "TerraFartMinecartRight"
+  },
+  {
+    "id": 347,
+    "name": "Terra Fart Kart",
+    "wiki_link": "https://terraria.fandom.com/wiki/Minecart",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Terra_Fart_Kart_%28buff%29.png/revision/latest?cb=20230909170724&format=original",
+    "name_es": null,
+    "wiki_link_es": null,
+    "internal_name": "TerraFartMinecartLeft"
+  },
+  {
+    "id": 348,
+    "name": "Strategist",
+    "wiki_link": "https://terraria.fandom.com/wiki/War_Table",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Strategist.png/revision/latest?cb=20230909165349&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/War_Table?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "WarTable"
+  },
+  {
+    "id": 349,
+    "name": "Blue Chicken",
+    "wiki_link": "https://terraria.fandom.com/wiki/Joja_Cola",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Blue_Chicken_%28buff%29.png/revision/latest?cb=20220929215937&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Blue_Chicken_Egg?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "BlueChickenPet"
+  },
+  {
+    "id": 350,
+    "name": "Shadow Candle",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shadow_Candle",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Shadow_Candle_%28buff%29.png/revision/latest?cb=20230909170739&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Shadow_Candle?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "ShadowCandle"
+  },
+  {
+    "id": 351,
+    "name": "Spiffo",
+    "wiki_link": "https://terraria.fandom.com/wiki/Spiffo_Plush",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Spiffo_%28buff%29.png/revision/latest?cb=20230408050956&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Spiffo_Plush?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Spiffo"
+  },
+  {
+    "id": 352,
+    "name": "Caveling Gardener",
+    "wiki_link": "https://terraria.fandom.com/wiki/Glow_Tulip",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Caveling_Gardener_%28buff%29.png/revision/latest?cb=20230909170803&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Glow_Tulip?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "CavelingGardener"
+  },
+  {
+    "id": 353,
+    "name": "Shimmering",
+    "wiki_link": "https://terraria.fandom.com/wiki/Shimmering",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Shimmering.png/revision/latest?cb=20221030005215&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/Shimmering?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "Shimmer"
+  },
+  {
+    "id": 354,
+    "name": "The Dirtiest Block",
+    "wiki_link": "https://terraria.fandom.com/wiki/The_Dirtiest_Block",
+    "image_url": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/The_Dirtiest_Block_%28buff%29.png/revision/latest?cb=20221104030150&format=original",
+    "name_es": null,
+    "wiki_link_es": "https://terraria-wiki-gg.translate.goog/wiki/The_Dirtiest_Block?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc",
+    "internal_name": "DirtiestBlock"
+  }
+]
