@@ -98,3 +98,19 @@ async def cmd_online(ctx, line, parts):
             count += 1
     if count == 0:
         await ctx.reply("  nobody connected.", COLOR_ERR)
+
+@command("novfix", ".novfix")
+async def cmd_novfix(ctx, line, parts):
+    if not hasattr(ctx.state, 'vfix_enabled'):
+        ctx.state.vfix_enabled = True
+    
+    ctx.state.vfix_enabled = not ctx.state.vfix_enabled
+    
+    if hasattr(ctx.state, 'persistent_config'):
+        ctx.state.persistent_config['vfix_enabled'] = ctx.state.vfix_enabled
+    
+    if ctx.state.vfix_enabled:
+        await ctx.reply("vfix enabled. client version will be patched.", COLOR_SUC)
+    else:
+        await ctx.reply("vfix disabled. client version will not be patched.", COLOR_ERR)
+

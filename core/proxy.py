@@ -296,7 +296,7 @@ class ProxySession:
                 if pkt_id == 1:
                     client_version, _ = read_csharp_string(frame, 3)
 
-                    if getattr(self.state, 'target_version', None) and client_version != self.state.target_version:
+                    if getattr(self.state, 'vfix_enabled', True) and getattr(self.state, 'target_version', None) and client_version != self.state.target_version:
                         print(f"\r[TCL-Mode] Patching on the fly: {client_version} -> {self.state.target_version}\n> ", end="", flush=True)
                         v_bytes = encode_csharp_string(self.state.target_version)
                         new_body = bytes([1]) + v_bytes

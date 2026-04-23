@@ -63,6 +63,7 @@ class GameState:
         self.noclip_y: float = 0.0
         self.noclip_control: int = 0
         self.target_version: Optional[str] = None
+        self.vfix_enabled: bool = True
 
         self._inject_queue: asyncio.Queue = asyncio.Queue()
 

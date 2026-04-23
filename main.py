@@ -26,7 +26,8 @@ async def run(listen_host: str, listen_port: int, target_host: str, target_port:
         "custom_uuid": None,
         "use_upstream_proxy": False,
         "upstream_proxy_host": None,
-        "upstream_proxy_port": None
+        "upstream_proxy_port": None,
+        "vfix_enabled": True
     }
 
     async def handle(reader: asyncio.StreamReader, writer: asyncio.StreamWriter) -> None:
@@ -39,6 +40,7 @@ async def run(listen_host: str, listen_port: int, target_host: str, target_port:
         state.use_upstream_proxy = persistent_config["use_upstream_proxy"]
         state.upstream_proxy_host = persistent_config["upstream_proxy_host"]
         state.upstream_proxy_port = persistent_config["upstream_proxy_port"]
+        state.vfix_enabled = persistent_config.get("vfix_enabled", True)
 
         state.persistent_config = persistent_config
 
