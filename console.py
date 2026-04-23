@@ -7,7 +7,7 @@ async def console_loop(state, proxy_ref: list) -> None:
     loop = asyncio.get_event_loop()
     print("\n=== terraria in-game proxy ===")
     print("you can use .uuid or .ip before opening the game.")
-    print("if you have connection issues related to the terraria version, try typing the command 'novfix' here.")
+    print("if you have connection issues related to the terraria version, try typing the command 'vfix' here.")
 
     while True:
         try:
