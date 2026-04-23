@@ -99,10 +99,10 @@ async def cmd_online(ctx, line, parts):
     if count == 0:
         await ctx.reply("  nobody connected.", COLOR_ERR)
 
-@command("novfix", ".novfix")
-async def cmd_novfix(ctx, line, parts):
+@command("vfix", ".vfix")
+async def cmd_vfix(ctx, line, parts):
     if not hasattr(ctx.state, 'vfix_enabled'):
-        ctx.state.vfix_enabled = True
+        ctx.state.vfix_enabled = False
     
     ctx.state.vfix_enabled = not ctx.state.vfix_enabled
     
